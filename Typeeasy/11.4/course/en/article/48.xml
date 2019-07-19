@@ -1,0 +1,37 @@
+<!DOCTYPE x48.xml>
+<course>
+    <courseInfo security="QgYWlkIGZv" new="false" alias="First aid for burns" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="FIRST AID FOR BURNS"/>
+        <item display="" display1="" id="1" comparision="The skin is an essential part of your body and its largest organ. You have three layers of skin which act as a barrier against disease, poisons and the sun's harmful rays. The functions of your skin are also very complex: it keeps you warm or cool; it prevents your body from losing too much water; it is where you feel cold, heat or pain and it gives you your sense of touch. So as you can imagine, if your skin gets burned it can be very serious. First aid is a very important first step in the treatment of bums."/>
+        <item display="" display1="" id="2" comparision="Causes of burns"/>
+        <item display="" display1="" id="3" comparision="You can get burned by a variety of things: hot liquids, steam, fire, radiation (by being close to high heat or fire, etc), the sun, electricity or chemicals."/>
+        <item display="" display1="" id="4" comparision="Types of burns"/>
+        <item display="" display1="" id="5" comparision="There are three types of burns. Burns are called first, second or third degree burns, depending on which layers of the skin are burned."/>
+        <item display="" display1="" id="6" comparision="First degree burns These affect only the top layer of the skin. These burns are not serious and should feel better within a day or two. Examples include mild sunburn and burns caused by touching a hot pan, stove or iron for a mordent."/>
+        <item display="" display1="" id="7" comparision="Second degree burns These affect both the top and the second layer of the skin. These bums are serious and take a few weeks to heal. Examples include severe sunburn and bums caused by hot liquids."/>
+        <item display="" display1="" id="8" comparision="Third degree burns These affect all three layers of the skin and any tissue and organs under the skin. Examples include burns caused by electric shocks, burning clothes, or severe petrol fires. These burns cause very severe injuries and the victim must go to hospital at once."/>
+        <item display="" display1="" id="9" comparision="Characteristics of burns"/>
+        <item display="" display1="" id="10" comparision="First degree burns"/>
+        <item display="" display1="" id="11" comparision="dry, red and mildly swollen"/>
+        <item display="" display1="" id="12" comparision="mildly painful"/>
+        <item display="" display1="" id="13" comparision="turn white when pressed"/>
+        <item display="" display1="" id="14" comparision="Second degree burns"/>
+        <item display="" display1="" id="15" comparision="rough, red and swollen"/>
+        <item display="" display1="" id="16" comparision="blisters"/>
+        <item display="" display1="" id="17" comparision="watery surface"/>
+        <item display="" display1="" id="18" comparision="extremely painful"/>
+        <item display="" display1="" id="19" comparision="Third degree burns"/>
+        <item display="" display1="" id="20" comparision="black and white and charred"/>
+        <item display="" display1="" id="21" comparision="swollen; often tissue under them can be seen"/>
+        <item display="" display1="" id="22" comparision="little or no pain if nerves are damaged; may be pain around edge of injured area."/>
+        <item display="" display1="" id="23" comparision="First aid treatment"/>
+        <item display="" display1="" id="24" comparision="1 Remove clothing using scissors if necessary unless it is stuck to the burn. Take off other clothing and jewellery near the burn."/>
+        <item display="" display1="" id="25" comparision="2 Cool burns immediately with cool but not icy water. It is best to place burns under gently running water for about 10 minutes. (The cool water stops the burning process, prevents the pain becoming unbearable and reduces swelling.) Do not put cold water on third degree burns."/>
+        <item display="" display1="" id="26" comparision="3 For first degree burns, place cool, clean, wet cloths on them until the pain is not so bad. For second degree burns, keep cloths cool by putting them back in a basin of cold water, squeezing them out and placing them on the burned area over and over again for about an hour until the pain is not so bad."/>
+        <item display="" display1="" id="27" comparision="4 Dry the burned area gently. Do not rob, as this may break any blisters and the wound may get infected."/>
+        <item display="" display1="" id="28" comparision="5 Cover the burned area with a dry, clean bandage that will not stick to the skin. Hold the bandage in place with tape. Never put butter, oil or ointment on bums as they keep the heat in the wounds and may cause infection."/>
+        <item display="" display1="" id="29" comparision="6 If bums are on arms or legs, keep them higher than the heart, if possible. If bums are on the face, the victim should sit up."/>
+        <item display="" display1="" id="30" comparision="7 If the injuries are second or third degree bums, it is vital to get the victim to the doctor or hospital at once."/>
+    </content>
+</course>

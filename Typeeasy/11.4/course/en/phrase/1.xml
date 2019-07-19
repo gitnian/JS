@@ -1,0 +1,106 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="8/PzE=" new="false" alias="最常用英语口语1" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="I see"/>
+        <item display="" display1="" id="1" comparision="I quit"/>
+        <item display="" display1="" id="2" comparision="Let go"/>
+        <item display="" display1="" id="3" comparision="Me too"/>
+        <item display="" display1="" id="4" comparision="My god"/>
+        <item display="" display1="" id="5" comparision="No way"/>
+        <item display="" display1="" id="6" comparision="Come on"/>
+        <item display="" display1="" id="7" comparision="Hold on"/>
+        <item display="" display1="" id="8" comparision="I agree"/>
+        <item display="" display1="" id="9" comparision="Not bad"/>
+        <item display="" display1="" id="10" comparision="Not yet"/>
+        <item display="" display1="" id="11" comparision="See you"/>
+        <item display="" display1="" id="12" comparision="Shut up"/>
+        <item display="" display1="" id="13" comparision="So long"/>
+        <item display="" display1="" id="14" comparision="Why not"/>
+        <item display="" display1="" id="15" comparision="Allow me"/>
+        <item display="" display1="" id="16" comparision="Be quiet"/>
+        <item display="" display1="" id="17" comparision="Cheer up"/>
+        <item display="" display1="" id="18" comparision="Good job"/>
+        <item display="" display1="" id="19" comparision="Have fun"/>
+        <item display="" display1="" id="20" comparision="How much"/>
+        <item display="" display1="" id="21" comparision="I'm full"/>
+        <item display="" display1="" id="22" comparision="I'm home"/>
+        <item display="" display1="" id="23" comparision="I'm lost"/>
+        <item display="" display1="" id="24" comparision="My treat"/>
+        <item display="" display1="" id="25" comparision="So do I"/>
+        <item display="" display1="" id="26" comparision="This way"/>
+        <item display="" display1="" id="27" comparision="After you"/>
+        <item display="" display1="" id="28" comparision="Bless you"/>
+        <item display="" display1="" id="29" comparision="Follow me"/>
+        <item display="" display1="" id="30" comparision="Forget it"/>
+        <item display="" display1="" id="31" comparision="Good luck"/>
+        <item display="" display1="" id="32" comparision="I decline"/>
+        <item display="" display1="" id="33" comparision="I promise"/>
+        <item display="" display1="" id="34" comparision="Of course"/>
+        <item display="" display1="" id="35" comparision="Slow down"/>
+        <item display="" display1="" id="36" comparision="Take care"/>
+        <item display="" display1="" id="37" comparision="They hurt"/>
+        <item display="" display1="" id="38" comparision="Try again"/>
+        <item display="" display1="" id="39" comparision="Watch out"/>
+        <item display="" display1="" id="40" comparision="What's up"/>
+        <item display="" display1="" id="41" comparision="Be careful"/>
+        <item display="" display1="" id="42" comparision="Bottoms up"/>
+        <item display="" display1="" id="43" comparision="Don't move"/>
+        <item display="" display1="" id="44" comparision="Guess what"/>
+        <item display="" display1="" id="45" comparision="I doubt it"/>
+        <item display="" display1="" id="46" comparision="I think so"/>
+        <item display="" display1="" id="47" comparision="I'm single"/>
+        <item display="" display1="" id="48" comparision="Keep it up"/>
+        <item display="" display1="" id="49" comparision="Let me see"/>
+        <item display="" display1="" id="50" comparision="Never mind"/>
+        <item display="" display1="" id="51" comparision="No problem"/>
+        <item display="" display1="" id="52" comparision="That's all"/>
+        <item display="" display1="" id="53" comparision="Time is up"/>
+        <item display="" display1="" id="54" comparision="What's new"/>
+        <item display="" display1="" id="55" comparision="Count me on"/>
+        <item display="" display1="" id="56" comparision="Don't worry"/>
+        <item display="" display1="" id="57" comparision="Feel better"/>
+        <item display="" display1="" id="58" comparision="I love you"/>
+        <item display="" display1="" id="59" comparision="I'm his fan"/>
+        <item display="" display1="" id="60" comparision="Is it yours"/>
+        <item display="" display1="" id="61" comparision="That's neat"/>
+        <item display="" display1="" id="62" comparision="Are you sure"/>
+        <item display="" display1="" id="63" comparision="Do I have to"/>
+        <item display="" display1="" id="64" comparision="He is my age"/>
+        <item display="" display1="" id="65" comparision="Here you are"/>
+        <item display="" display1="" id="66" comparision="No one knows"/>
+        <item display="" display1="" id="67" comparision="Take it easy"/>
+        <item display="" display1="" id="68" comparision="What a pity"/>
+        <item display="" display1="" id="69" comparision="Any thing else"/>
+        <item display="" display1="" id="70" comparision="To be careful"/>
+        <item display="" display1="" id="71" comparision="Do me a favor"/>
+        <item display="" display1="" id="72" comparision="Help yourself"/>
+        <item display="" display1="" id="73" comparision="I'm on a diet"/>
+        <item display="" display1="" id="74" comparision="Keep in Touch"/>
+        <item display="" display1="" id="75" comparision="Time is money"/>
+        <item display="" display1="" id="76" comparision="Who's calling"/>
+        <item display="" display1="" id="77" comparision="You did right"/>
+        <item display="" display1="" id="78" comparision="You set me up"/>
+        <item display="" display1="" id="79" comparision="Can I help you"/>
+        <item display="" display1="" id="80" comparision="Enjoy yourself"/>
+        <item display="" display1="" id="81" comparision="Excuse me, Sir"/>
+        <item display="" display1="" id="82" comparision="Give me a hand"/>
+        <item display="" display1="" id="83" comparision="How's it going"/>
+        <item display="" display1="" id="84" comparision="I have no idea"/>
+        <item display="" display1="" id="85" comparision="I just made it"/>
+        <item display="" display1="" id="86" comparision="I'll see to it"/>
+        <item display="" display1="" id="87" comparision="I'm in a hurry"/>
+        <item display="" display1="" id="88" comparision="It's her field"/>
+        <item display="" display1="" id="89" comparision="It's up to you"/>
+        <item display="" display1="" id="90" comparision="Just wonderful"/>
+        <item display="" display1="" id="91" comparision="What about you"/>
+        <item display="" display1="" id="92" comparision="You owe me one"/>
+        <item display="" display1="" id="93" comparision="You're welcome"/>
+        <item display="" display1="" id="94" comparision="Any day will do"/>
+        <item display="" display1="" id="95" comparision="Are you kidding"/>
+        <item display="" display1="" id="96" comparision="Congratulations"/>
+        <item display="" display1="" id="97" comparision="T can't help it"/>
+        <item display="" display1="" id="98" comparision="I don't mean it"/>
+        <item display="" display1="" id="99" comparision="I'll fix you Up"/>
+    </content>
+</course>

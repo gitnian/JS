@@ -1,0 +1,34 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="8/Pz8=" new="false" alias="英文打字语句考试" courseType="en-phrase-exam"/>
+    <content>
+        <item display="" display1="" id="0" comparision="I agree."/>
+        <item display="" display1="" id="1" comparision="Not bad."/>
+        <item display="" display1="" id="2" comparision="See you."/>
+        <item display="" display1="" id="3" comparision="Here you are."/>
+        <item display="" display1="" id="4" comparision="No one knows."/>
+        <item display="" display1="" id="5" comparision="Take it easy."/>
+        <item display="" display1="" id="6" comparision="What a pity!"/>
+        <item display="" display1="" id="7" comparision="What time is it?"/>
+        <item display="" display1="" id="8" comparision="You can make it!"/>
+        <item display="" display1="" id="9" comparision="Control yourself!"/>
+        <item display="" display1="" id="10" comparision="He is ill in bed."/>
+        <item display="" display1="" id="11" comparision="How's everything?"/>
+        <item display="" display1="" id="12" comparision="I have no choice."/>
+        <item display="" display1="" id="13" comparision="All for one, one for all."/>
+        <item display="" display1="" id="14" comparision="East, west, home is best."/>
+        <item display="" display1="" id="15" comparision="I have the right to know."/>
+        <item display="" display1="" id="16" comparision="Stop making such a noise."/>
+        <item display="" display1="" id="17" comparision="That makes no difference."/>
+        <item display="" display1="" id="18" comparision="How about a drink tonight?"/>
+        <item display="" display1="" id="19" comparision="No spitting on the street."/>
+        <item display="" display1="" id="20" comparision="Don't dream away your time."/>
+        <item display="" display1="" id="21" comparision="It's very thoughtful of you."/>
+        <item display="" display1="" id="22" comparision="Opportunity knocks but once."/>
+        <item display="" display1="" id="23" comparision="Close the door after you, please."/>
+        <item display="" display1="" id="24" comparision="It's nothing to be surprised about."/>
+        <item display="" display1="" id="25" comparision="You can kill two birds with one stone."/>
+        <item display="" display1="" id="26" comparision="Please push the ladder against the wall."/>
+        <item display="" display1="" id="27" comparision="The doctor asked me to watch what I eat."/>
+    </content>
+</course>

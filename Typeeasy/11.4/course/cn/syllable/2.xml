@@ -1,0 +1,29 @@
+<!DOCTYPE x2.xml>
+<course>
+    <courseInfo security="" new="false" alias="韵母" courseType="cn-syllable"/>
+    <content>
+        <item display="a" display1="啊" id="0" comparision="a"/>
+        <item display="o" display1="喔" id="1" comparision="o"/>
+        <item display="e" display1="鹅" id="2" comparision="e"/>
+        <item display="i" display1="衣" id="3" comparision="i"/>
+        <item display="u" display1="乌" id="4" comparision="u"/>
+        <item display="ü" display1="迂" id="5" comparision="v"/>
+        <item display="ai" display1="哀" id="6" comparision="ai"/>
+        <item display="ei" display1="诶" id="7" comparision="ei"/>
+        <item display="ui" display1="危" id="8" comparision="ui"/>
+        <item display="ao" display1="凹" id="9" comparision="ao"/>
+        <item display="ou" display1="欧" id="10" comparision="ou"/>
+        <item display="iu" display1="忧" id="11" comparision="iu"/>
+        <item display="ie" display1="耶" id="12" comparision="ie"/>
+        <item display="üe" display1="约" id="13" comparision="ve"/>
+        <item display="er" display1="耳" id="14" comparision="er"/>
+        <item display="an" display1="安" id="15" comparision="an"/>
+        <item display="en" display1="恩" id="16" comparision="en"/>
+        <item display="in" display1="因" id="17" comparision="in"/>
+        <item display="un" display1="温" id="18" comparision="un"/>
+        <item display="ün" display1="晕" id="19" comparision="vn"/>
+        <item display="ang" display1="昂" id="20" comparision="ang"/>
+        <item display="eng" display1="鞥" id="21" comparision="eng"/>
+        <item display="ing" display1="英" id="22" comparision="ing"/>
+    </content>
+</course>

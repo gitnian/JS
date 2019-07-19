@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version svr="wdl1.cache.wps.cn/dzt">
+    <uplivenum>2.1</uplivenum>
+	<uplivepatch path="uplive.exe" md5=""></uplivepatch>
+    <dztnum>11.4</dztnum>
+	<dztpatch path="update.exe" md5=""></dztpatch>
+</version>

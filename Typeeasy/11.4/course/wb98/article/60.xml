@@ -1,0 +1,31 @@
+<!DOCTYPE x60.xml>
+<course>
+    <courseInfo security="8/" new="false" alias="沁园春·长沙" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="独立寒秋，湘江北去，橘子洲头。"/>
+        <item display="" display1="" id="1" comparision="看万山红遍，层林尽染；"/>
+        <item display="" display1="" id="2" comparision="漫江碧透，百舸争流。"/>
+        <item display="" display1="" id="3" comparision="鹰击长空，鱼翔浅底，万类霜天竞自由。"/>
+        <item display="" display1="" id="4" comparision="怅寥廓，问苍茫大地，谁主沉浮?"/>
+        <item display="" display1="" id="5" comparision="携来百侣曾游。"/>
+        <item display="" display1="" id="6" comparision="忆往昔峥嵘岁月稠。"/>
+        <item display="" display1="" id="7" comparision="恰同学少年，风华正茂；"/>
+        <item display="" display1="" id="8" comparision="书生意气，挥斥方遒。"/>
+        <item display="" display1="" id="9" comparision="指点江山，激扬文字，粪土当年万户侯。"/>
+        <item display="" display1="" id="10" comparision="曾记否，到中流击水，浪遏飞舟?"/>
+        <item display="" display1="" id="11" comparision="沁园春·雪"/>
+        <item display="" display1="" id="12" comparision="1936年2月"/>
+        <item display="" display1="" id="13" comparision="毛泽东"/>
+        <item display="" display1="" id="14" comparision="北国风光，千里冰封，万里雪飘。"/>
+        <item display="" display1="" id="15" comparision="望长城内外，惟余莽莽；"/>
+        <item display="" display1="" id="16" comparision="大河上下，顿失滔滔。"/>
+        <item display="" display1="" id="17" comparision="山舞银蛇，原驰蜡象，欲与天公试比高。"/>
+        <item display="" display1="" id="18" comparision="须晴日，看红装素裹，分外妖娆。"/>
+        <item display="" display1="" id="19" comparision="江山如此多娇，"/>
+        <item display="" display1="" id="20" comparision="引无数英雄竞折腰。"/>
+        <item display="" display1="" id="21" comparision="惜秦皇汉武，略输文采；"/>
+        <item display="" display1="" id="22" comparision="唐宗宋祖，稍逊风骚。"/>
+        <item display="" display1="" id="23" comparision="一代天骄，成吉思汗，只识弯弓射大雕。"/>
+        <item display="" display1="" id="24" comparision="俱往矣，数风流人物，还看今朝。"/>
+    </content>
+</course>

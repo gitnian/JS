@@ -1,0 +1,41 @@
+<!DOCTYPE x25.xml>
+<course>
+    <courseInfo security="1pbGxpb24g" new="false" alias="The million pound bank note(2)" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="THE MILLION POUND BANK NOTE"/>
+        <item display="" display1="" id="1" comparision="Act I, Scene 4"/>
+        <item display="" display1="" id="2" comparision="(Outside a restaurant Henry looks at the envelope without opening it and decides to go in. He sits down at a table next to the front window.)"/>
+        <item display="" display1="" id="3" comparision="OWNER: (seeing Henry's poor appearance) That one's reserved. This way, please. (to the waiter) Take this gentleman's order, Horace."/>
+        <item display="" display1="" id="4" comparision="HENRY: (after sitting down and putting the letter on the table) I'd like some ham and eggs and a nice big steak. Make it extra thick. I'd also like a cup of coffee and a pineapple dessert."/>
+        <item display="" display1="" id="5" comparision="WAITER: Right, sir. I'm afraid it'll cost a large amount of money."/>
+        <item display="" display1="" id="6" comparision="HENRY: I understand. And I'll have a large glass of beer."/>
+        <item display="" display1="" id="7" comparision="WAITER: OK. (The waiter leaves and soon returns with all the food.)"/>
+        <item display="" display1="" id="8" comparision="HOSTESS: My goodness! Why, look at him. He eats like a wolf."/>
+        <item display="" display1="" id="9" comparision="OWNER: We'll see if he's clever as a wolf, eh?"/>
+        <item display="" display1="" id="10" comparision="HENRY: (having just finished every bit of food) Ah, waiter. (waiter returns) Same thing again, please. Oh, and another beer."/>
+        <item display="" display1="" id="11" comparision="WAITER: Again? Everything?"/>
+        <item display="" display1="" id="12" comparision="HENRY: Yes, that's right. (sees the look on the waiter's face) Anything wrong?"/>
+        <item display="" display1="" id="13" comparision="WAITER: No, not at all. (to the owner) He's asked for more of the same."/>
+        <item display="" display1="" id="14" comparision="OWNER: Well, it is well-known that Americans like to eat a lot. Well, we'll have to take a chance. Go ahead and let him have it."/>
+        <item display="" display1="" id="15" comparision="WAITER: (reading the bill after the meal) All right. That's two orders of ham and eggs, two extra thick steaks, two large glasses of beer, two cups of coffee and two desserts."/>
+        <item display="" display1="" id="16" comparision="HENRY: (looking at the clock on the wall) Would you mind waiting just a few minutes?"/>
+        <item display="" display1="" id="17" comparision="WAITER: (in a rude manner) What's there to wait for?"/>
+        <item display="" display1="" id="18" comparision="OWNER: All right, Horace. I'll take care of this."/>
+        <item display="" display1="" id="19" comparision="HENRY: (to owner) That was a wonderful meal. It's amazing how much pleasure you get out of tile simple things in life, especially if you can't have them for a while."/>
+        <item display="" display1="" id="20" comparision="OWNER: Yes, very interesting. Now perhaps, sir, if you pay your bill I can help the other customers."/>
+        <item display="" display1="" id="21" comparision="HENRY: (looking at the clock on the wall again) Well, I see it's two o'clock. (he opens the envelope and holds a million pound bank note in his hands. Henry is surprised but the owner and waiter are shocked) I'm very sorry. But... I... I don't have anything smaller."/>
+        <item display="" display1="" id="22" comparision="OWNER: (still shocked and nervous) Well.. er... just one moment. Maggie, look! (the hostess screams, the other customers look at her and she puts a hand to her mouth) Do you think it's genuine?"/>
+        <item display="" display1="" id="23" comparision="HOSTESS: Oh, dear, I don't know. I simply don't know."/>
+        <item display="" display1="" id="24" comparision="OWNER: Well, I did hear that the Bank of England had issued two notes in this amount... Anyway, I don't think it can be a fake. People would pay too much attention to a bank note of this amount. No thief would want that to happen."/>
+        <item display="" display1="" id="25" comparision="HOSTESS: But he's in rags!"/>
+        <item display="" display1="" id="26" comparision="OWNER: Perhaps he's a very strange, rich man. (as if he has discovered something for the first time) Why, yes! That must be it!"/>
+        <item display="" display1="" id="27" comparision="HOSTESS: (hits her husband's arm) And you put him in the back of the restaurant! Go and see him at once."/>
+        <item display="" display1="" id="28" comparision="OWNER: (to Henry) I'm so sorry, sir, so sorry, but I cannot change this bank note."/>
+        <item display="" display1="" id="29" comparision="HENRY: But it's all I have on me."/>
+        <item display="" display1="" id="30" comparision="OWNER: Oh, please, don't worry, sir. Doesn't matter at all. We're so very glad that you even entered our little eating place. Indeed, sir, I hope you'll come here whenever you like."/>
+        <item display="" display1="" id="31" comparision="HENRY: Well, that's very kind of you."/>
+        <item display="" display1="" id="32" comparision="OWNER: Kind, sir? No, it's kind of you. You must come whenever you want and have whatever you like. Just having you sit here is a great honour! As for the bill, sir, please forget it."/>
+        <item display="" display1="" id="33" comparision="HENRY: Forget it? Well... thank you very much. That's very nice of you."/>
+        <item display="" display1="" id="34" comparision="OWNER: Oh, it's for us to thank you, sir and I do, sir, from the bottom of my heart. (The owner, hostess and waiter all bow as Henry leaves.)"/>
+    </content>
+</course>

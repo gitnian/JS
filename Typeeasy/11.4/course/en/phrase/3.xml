@@ -1,0 +1,106 @@
+<!DOCTYPE x3.xml>
+<course>
+    <courseInfo security="8/PzM=" new="false" alias="最常用英语口语3" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="He has a large income"/>
+        <item display="" display1="" id="1" comparision="He looks very healthy"/>
+        <item display="" display1="" id="2" comparision="He paused for a reply"/>
+        <item display="" display1="" id="3" comparision="He repaired his house"/>
+        <item display="" display1="" id="4" comparision="He suggested a picnic"/>
+        <item display="" display1="" id="5" comparision="Here's a gift for you"/>
+        <item display="" display1="" id="6" comparision="How much does it cost"/>
+        <item display="" display1="" id="7" comparision="I caught the last bus"/>
+        <item display="" display1="" id="8" comparision="I could hardly speak"/>
+        <item display="" display1="" id="9" comparision="I'll have to try that"/>
+        <item display="" display1="" id="10" comparision="I'm very proud of you"/>
+        <item display="" display1="" id="11" comparision="It doesn't make sense"/>
+        <item display="" display1="" id="12" comparision="Make yourself at home"/>
+        <item display="" display1="" id="13" comparision="My car needs washing"/>
+        <item display="" display1="" id="14" comparision="None of your business"/>
+        <item display="" display1="" id="15" comparision="Not a sound was heard"/>
+        <item display="" display1="" id="16" comparision="That's always the case"/>
+        <item display="" display1="" id="17" comparision="The road divides here"/>
+        <item display="" display1="" id="18" comparision="Those are watermelons"/>
+        <item display="" display1="" id="19" comparision="What a nice day it is"/>
+        <item display="" display1="" id="20" comparision="What's wrong with you"/>
+        <item display="" display1="" id="21" comparision="You are a chicken"/>
+        <item display="" display1="" id="22" comparision="A lovely day, isn't it"/>
+        <item display="" display1="" id="23" comparision="He is collecting money"/>
+        <item display="" display1="" id="24" comparision="He was born in New York"/>
+        <item display="" display1="" id="25" comparision="He was not a bit tired"/>
+        <item display="" display1="" id="26" comparision="I will be more careful"/>
+        <item display="" display1="" id="27" comparision="I will never forget it"/>
+        <item display="" display1="" id="28" comparision="It is Just what I need"/>
+        <item display="" display1="" id="29" comparision="It rather surprised me"/>
+        <item display="" display1="" id="30" comparision="Just around the comer"/>
+        <item display="" display1="" id="31" comparision="Just for entertainment"/>
+        <item display="" display1="" id="32" comparision="Let bygones be bygones"/>
+        <item display="" display1="" id="33" comparision="Mother doesn't make up"/>
+        <item display="" display1="" id="34" comparision="Oh, you are kidding me"/>
+        <item display="" display1="" id="35" comparision="She has been to school"/>
+        <item display="" display1="" id="36" comparision="Skating is interesting"/>
+        <item display="" display1="" id="37" comparision="Supper is ready at six"/>
+        <item display="" display1="" id="38" comparision="That's a terrific idea"/>
+        <item display="" display1="" id="39" comparision="What horrible weather"/>
+        <item display="" display1="" id="40" comparision="Which would you prefer"/>
+        <item display="" display1="" id="41" comparision="Does she like ice-cream"/>
+        <item display="" display1="" id="42" comparision="First come first served"/>
+        <item display="" display1="" id="43" comparision="Great minds think alike"/>
+        <item display="" display1="" id="44" comparision="He has a sense of humor"/>
+        <item display="" display1="" id="45" comparision="He is acting an old man"/>
+        <item display="" display1="" id="46" comparision="He is looking for a job"/>
+        <item display="" display1="" id="47" comparision="He doesn't care about me"/>
+        <item display="" display1="" id="48" comparision="I develop films myself"/>
+        <item display="" display1="" id="49" comparision="I felt no regret for it"/>
+        <item display="" display1="" id="50" comparision="I get up at six o'clock"/>
+        <item display="" display1="" id="51" comparision="I meet the boss himself"/>
+        <item display="" display1="" id="52" comparision="I owe you for my dinner"/>
+        <item display="" display1="" id="53" comparision="I really enjoyed myself"/>
+        <item display="" display1="" id="54" comparision="I'm fed up with my work"/>
+        <item display="" display1="" id="55" comparision="It's no use complaining"/>
+        <item display="" display1="" id="56" comparision="She's under the weather"/>
+        <item display="" display1="" id="57" comparision="The child sobbed sadly"/>
+        <item display="" display1="" id="58" comparision="The rumor had no basis"/>
+        <item display="" display1="" id="59" comparision="They praised him highly"/>
+        <item display="" display1="" id="60" comparision="Winter is a cold season"/>
+        <item display="" display1="" id="61" comparision="You can call me any time"/>
+        <item display="" display1="" id="62" comparision="15 divided by3 equals 5"/>
+        <item display="" display1="" id="63" comparision="All for one, one for all"/>
+        <item display="" display1="" id="64" comparision="East,west, home is best"/>
+        <item display="" display1="" id="65" comparision="He grasped both my hands"/>
+        <item display="" display1="" id="66" comparision="He is physically mature"/>
+        <item display="" display1="" id="67" comparision="I am so sorry about this"/>
+        <item display="" display1="" id="68" comparision="I can't afford a new car"/>
+        <item display="" display1="" id="69" comparision="I do want to see him now"/>
+        <item display="" display1="" id="70" comparision="I have the right to know"/>
+        <item display="" display1="" id="71" comparision="I heard some one laughing"/>
+        <item display="" display1="" id="72" comparision="I suppose you dance much"/>
+        <item display="" display1="" id="73" comparision="I walked across the park"/>
+        <item display="" display1="" id="74" comparision="I'll just play it by ear"/>
+        <item display="" display1="" id="75" comparision="I'm not sure I can do it"/>
+        <item display="" display1="" id="76" comparision="I'm not used to drinking"/>
+        <item display="" display1="" id="77" comparision="Is the cut still painful"/>
+        <item display="" display1="" id="78" comparision="It's too good to be true"/>
+        <item display="" display1="" id="79" comparision="Jean is a blue-eyed girl"/>
+        <item display="" display1="" id="80" comparision="Let's not waste our time"/>
+        <item display="" display1="" id="81" comparision="May I ask some questions"/>
+        <item display="" display1="" id="82" comparision="Money is not everything"/>
+        <item display="" display1="" id="83" comparision="Neither of the men spoke"/>
+        <item display="" display1="" id="84" comparision="Stop making such a noise"/>
+        <item display="" display1="" id="85" comparision="That makes no difference"/>
+        <item display="" display1="" id="86" comparision="The price is reasonable"/>
+        <item display="" display1="" id="87" comparision="They crowned him king"/>
+        <item display="" display1="" id="88" comparision="They're in red and white"/>
+        <item display="" display1="" id="89" comparision="We all desire happiness"/>
+        <item display="" display1="" id="90" comparision="We just caught the plane"/>
+        <item display="" display1="" id="91" comparision="What shall we do tonight"/>
+        <item display="" display1="" id="92" comparision="What's your goal in life"/>
+        <item display="" display1="" id="93" comparision="When was the house built"/>
+        <item display="" display1="" id="94" comparision="Why did you stay at home"/>
+        <item display="" display1="" id="95" comparision="Would you like some help"/>
+        <item display="" display1="" id="96" comparision="You mustn't aim too high"/>
+        <item display="" display1="" id="97" comparision="You're really killing me"/>
+        <item display="" display1="" id="98" comparision="You've got a point there"/>
+        <item display="" display1="" id="99" comparision="Being criticized is awful"/>
+    </content>
+</course>

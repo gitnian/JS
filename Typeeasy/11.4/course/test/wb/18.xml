@@ -1,0 +1,15 @@
+<!DOCTYPE x18.xml>
+<course>
+    <courseInfo security="8/Pw==" new="false" alias="格言_多听少说" courseType="test-wb"/>
+    <content>
+        <item display="" display1="" id="0" comparision="多听，少说，接受每一个人的责难，但是保留你的最后裁决。"/>
+        <item display="" display1="" id="1" comparision="对人要和气，但不要狎昵。"/>
+        <item display="" display1="" id="2" comparision="自己不能胜任的事情，切莫轻易答应别人，一旦答应了别人，就必须实践自己的诺言。"/>
+        <item display="" display1="" id="3" comparision="两个人交谈，一个人可以洗耳恭听。但是，三个人则无法互谈这人世最严肃而应深究的事。"/>
+        <item display="" display1="" id="4" comparision="对人不尊敬，首先就是对自己的不尊敬。"/>
+        <item display="" display1="" id="5" comparision="求人帮助的时候，求穷人比求富人容易。"/>
+        <item display="" display1="" id="6" comparision="要使别人喜欢你，首先你得改变对人的态度，把精神放得轻松一点，表情自然，笑容可掬，这样别人就会对你产生喜爱的感觉了。"/>
+        <item display="" display1="" id="7" comparision="对别人的意见要表示尊重。千万别说：“你错了。”"/>
+        <item display="" display1="" id="8" comparision="如果我们想交朋友，就要先为别人做些事；做那些需要花时间、体力、体贴、奉献才能做到的事。"/>
+    </content>
+</course>

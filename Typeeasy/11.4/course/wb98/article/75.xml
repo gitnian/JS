@@ -1,0 +1,31 @@
+<!DOCTYPE x75.xml>
+<course>
+    <courseInfo security="8/" new="false" alias="杜甫律诗五首" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="《客至》"/>
+        <item display="" display1="" id="1" comparision="舍南舍北皆春水，但见群鸥日日来。"/>
+        <item display="" display1="" id="2" comparision="花径不曾缘客扫，蓬门今始为君开。"/>
+        <item display="" display1="" id="3" comparision="盘飧市远无兼味，樽酒家贫只旧醅。"/>
+        <item display="" display1="" id="4" comparision="肯与邻翁相对饮，隔篱呼取尽余杯。"/>
+        <item display="" display1="" id="5" comparision="《旅夜书怀》"/>
+        <item display="" display1="" id="6" comparision="细草微风岸，危樯独夜舟。"/>
+        <item display="" display1="" id="7" comparision="星垂平野阔，月涌大江流。"/>
+        <item display="" display1="" id="8" comparision="名岂文章著，官应老病休。"/>
+        <item display="" display1="" id="9" comparision="飘飘何所似，天地一沙鸥。"/>
+        <item display="" display1="" id="10" comparision="《咏怀古迹》"/>
+        <item display="" display1="" id="11" comparision="群山万壑赴荆门，生长明妃尚有村。"/>
+        <item display="" display1="" id="12" comparision="一去紫台连朔漠，独留青冢向黄昏，"/>
+        <item display="" display1="" id="13" comparision="画图省识春风面，环珮空归月夜魂。"/>
+        <item display="" display1="" id="14" comparision="千载琵琶作胡语，分明怨恨曲中论。"/>
+        <item display="" display1="" id="15" comparision="《阁夜》"/>
+        <item display="" display1="" id="16" comparision="岁暮阴阳催短景，天涯霜雪霁寒宵。"/>
+        <item display="" display1="" id="17" comparision="五更鼓角声悲壮，三峡星河影动摇。"/>
+        <item display="" display1="" id="18" comparision="野哭千家闻战伐，夷歌数处起渔樵。"/>
+        <item display="" display1="" id="19" comparision="卧龙跃马终黄土，人事音书漫寂寥。"/>
+        <item display="" display1="" id="20" comparision="《登岳阳楼》"/>
+        <item display="" display1="" id="21" comparision="昔闻洞庭水，今上岳阳楼。"/>
+        <item display="" display1="" id="22" comparision="吴楚东南坼，乾坤日夜浮。"/>
+        <item display="" display1="" id="23" comparision="亲朋无一字，老病有孤舟。"/>
+        <item display="" display1="" id="24" comparision="戎马关山北，凭轩涕泗流。"/>
+    </content>
+</course>

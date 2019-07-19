@@ -1,0 +1,26 @@
+<!DOCTYPE x56.xml>
+<course>
+    <courseInfo security="8oMSk=" new="true" alias="脑筋急转弯(1)" courseType="test-wb"/>
+    <content>
+        <item display="" display1="" id="0" comparision="什么书在书店里是买不到的？"/>
+        <item display="" display1="" id="1" comparision="答案：遗书"/>
+        <item display="" display1="" id="2" comparision="大象的左耳朵像什么？"/>
+        <item display="" display1="" id="3" comparision="答案：右耳朵"/>
+        <item display="" display1="" id="4" comparision="什么水永远用不完？"/>
+        <item display="" display1="" id="5" comparision="答案：泪水"/>
+        <item display="" display1="" id="6" comparision="有一颗豆摔倒了，只有你能鼓励他，为什么？"/>
+        <item display="" display1="" id="7" comparision="答案：朱古力豆（猪鼓励豆）"/>
+        <item display="" display1="" id="8" comparision="什么样的人死后还会出现？"/>
+        <item display="" display1="" id="9" comparision="答案：电影中的人"/>
+        <item display="" display1="" id="10" comparision="什么帽不能戴？"/>
+        <item display="" display1="" id="11" comparision="答案：螺帽"/>
+        <item display="" display1="" id="12" comparision="什么东西有五个头，但人不觉得它怪呢？"/>
+        <item display="" display1="" id="13" comparision="答案：手，脚"/>
+        <item display="" display1="" id="14" comparision="家人问医生病人的情况，医生只举起5个手指，家人就哭了，是什么原因呢？"/>
+        <item display="" display1="" id="15" comparision="答案：三长两短"/>
+        <item display="" display1="" id="16" comparision="把一只鸡和一只鹅同时放在冰山上，为什么鸡死了鹅没死？"/>
+        <item display="" display1="" id="17" comparision="答案：鹅是企鹅"/>
+        <item display="" display1="" id="18" comparision="什么英文字母让人们喜欢听而且听的人最多？"/>
+        <item display="" display1="" id="19" comparision="答案：CD"/>
+    </content>
+</course>

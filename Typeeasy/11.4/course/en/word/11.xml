@@ -1,0 +1,54 @@
+<!DOCTYPE x11.xml>
+<course>
+    <courseInfo security="8/Mw==" new="false" alias="小学英语单词3" courseType="en-word"/>
+    <content>
+        <item display="" display1="" id="0" comparision="old"/>
+        <item display="" display1="" id="1" comparision="older"/>
+        <item display="" display1="" id="2" comparision="young"/>
+        <item display="" display1="" id="3" comparision="younger"/>
+        <item display="" display1="" id="4" comparision="big"/>
+        <item display="" display1="" id="5" comparision="bigger"/>
+        <item display="" display1="" id="6" comparision="heavy"/>
+        <item display="" display1="" id="7" comparision="heavier"/>
+        <item display="" display1="" id="8" comparision="long"/>
+        <item display="" display1="" id="9" comparision="longer"/>
+        <item display="" display1="" id="10" comparision="thin"/>
+        <item display="" display1="" id="11" comparision="thinner"/>
+        <item display="" display1="" id="12" comparision="matter"/>
+        <item display="" display1="" id="13" comparision="sore"/>
+        <item display="" display1="" id="14" comparision="hurt"/>
+        <item display="" display1="" id="15" comparision="tired"/>
+        <item display="" display1="" id="16" comparision="excited"/>
+        <item display="" display1="" id="17" comparision="angry"/>
+        <item display="" display1="" id="18" comparision="happy"/>
+        <item display="" display1="" id="19" comparision="bored"/>
+        <item display="" display1="" id="20" comparision="sad"/>
+        <item display="" display1="" id="21" comparision="watch"/>
+        <item display="" display1="" id="22" comparision="watched"/>
+        <item display="" display1="" id="23" comparision="wash"/>
+        <item display="" display1="" id="24" comparision="washed"/>
+        <item display="" display1="" id="25" comparision="clean"/>
+        <item display="" display1="" id="26" comparision="cleaned"/>
+        <item display="" display1="" id="27" comparision="play"/>
+        <item display="" display1="" id="28" comparision="played"/>
+        <item display="" display1="" id="29" comparision="visit"/>
+        <item display="" display1="" id="30" comparision="visited"/>
+        <item display="" display1="" id="31" comparision="do"/>
+        <item display="" display1="" id="32" comparision="did"/>
+        <item display="" display1="" id="33" comparision="go"/>
+        <item display="" display1="" id="34" comparision="went"/>
+        <item display="" display1="" id="35" comparision="read"/>
+        <item display="" display1="" id="36" comparision="read"/>
+        <item display="" display1="" id="37" comparision="leran"/>
+        <item display="" display1="" id="38" comparision="sing"/>
+        <item display="" display1="" id="39" comparision="climb"/>
+        <item display="" display1="" id="40" comparision="climbed"/>
+        <item display="" display1="" id="41" comparision="have"/>
+        <item display="" display1="" id="42" comparision="had"/>
+        <item display="" display1="" id="43" comparision="row"/>
+        <item display="" display1="" id="44" comparision="see"/>
+        <item display="" display1="" id="45" comparision="get"/>
+        <item display="" display1="" id="46" comparision="got"/>
+        <item display="" display1="" id="47" comparision="last"/>
+    </content>
+</course>

@@ -1,0 +1,37 @@
+<!DOCTYPE x2.xml>
+<course>
+    <courseInfo security="==" new="false" alias="中排键位" courseType="nov-letter"/>
+    <content>
+        <item display="" display1="" id="0" comparision="AAAASSSS"/>
+        <item display="" display1="" id="1" comparision="DDDDFFFF"/>
+        <item display="" display1="" id="2" comparision="GGGGHHHH"/>
+        <item display="" display1="" id="3" comparision="JJJJKKKK"/>
+        <item display="" display1="" id="4" comparision="LLLL;;;;"/>
+        <item display="" display1="" id="5" comparision="ASDFG"/>
+        <item display="" display1="" id="6" comparision="HJKL;"/>
+        <item display="" display1="" id="7" comparision=";LKJH"/>
+        <item display="" display1="" id="8" comparision="GFDSA"/>
+        <item display="" display1="" id="9" comparision="ASDFGHJKL;"/>
+        <item display="" display1="" id="10" comparision=";LKJHGFDSA"/>
+        <item display="" display1="" id="11" comparision="GHFJDKSLA;"/>
+        <item display="" display1="" id="12" comparision="HGJFKDLS;A"/>
+        <item display="" display1="" id="13" comparision="A;SLDKFJGH"/>
+        <item display="" display1="" id="14" comparision=";ALSKDJFHG"/>
+        <item display="" display1="" id="15" comparision="GHGHGH"/>
+        <item display="" display1="" id="16" comparision="FJFJFJ"/>
+        <item display="" display1="" id="17" comparision="DKDKDK"/>
+        <item display="" display1="" id="18" comparision="SLSLSL"/>
+        <item display="" display1="" id="19" comparision="A;A;A;"/>
+        <item display="" display1="" id="20" comparision="HGHGHG"/>
+        <item display="" display1="" id="21" comparision="JFJFJF"/>
+        <item display="" display1="" id="22" comparision="KDKDKD"/>
+        <item display="" display1="" id="23" comparision="LSLSLS"/>
+        <item display="" display1="" id="24" comparision=";A;A;A"/>
+        <item display="" display1="" id="25" comparision="ASDFG"/>
+        <item display="" display1="" id="26" comparision="HJKL;"/>
+        <item display="" display1="" id="27" comparision=";LKJH"/>
+        <item display="" display1="" id="28" comparision="GFDSA"/>
+        <item display="" display1="" id="29" comparision="ASDFGHJKL;"/>
+        <item display="" display1="" id="30" comparision=";LKJHGFDSA"/>
+    </content>
+</course>

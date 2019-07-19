@@ -1,0 +1,67 @@
+<!DOCTYPE x10.xml>
+<course>
+    <courseInfo security="8/PzEw" new="false" alias="最常用英语口语10" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="Yes. I wouldn't go home early if I were you"/>
+        <item display="" display1="" id="1" comparision="Your answer is satisfying. I feel satisfied"/>
+        <item display="" display1="" id="2" comparision="Betty and Susan are talking on the telephone"/>
+        <item display="" display1="" id="3" comparision="Great efforts ensure the success of our work"/>
+        <item display="" display1="" id="4" comparision="He has tasted the sweets and bitters of life"/>
+        <item display="" display1="" id="5" comparision="He said he was educated in the United States"/>
+        <item display="" display1="" id="6" comparision="How do you like our English literature Prof?"/>
+        <item display="" display1="" id="7" comparision="I am looking forward to your visit next week"/>
+        <item display="" display1="" id="8" comparision="I feel I am the happiest person in the world"/>
+        <item display="" display1="" id="9" comparision="I had to sit up all night writing the report"/>
+        <item display="" display1="" id="10" comparision="I hope we can see each other again some time"/>
+        <item display="" display1="" id="11" comparision="I saw him playing football on the playground"/>
+        <item display="" display1="" id="12" comparision="It is tomorrow that they will have a meeting"/>
+        <item display="" display1="" id="13" comparision="Let me tell you some details about clearance"/>
+        <item display="" display1="" id="14" comparision="The brain needs a continuous supply of blood"/>
+        <item display="" display1="" id="15" comparision="The doctor's words made him feel comfortable"/>
+        <item display="" display1="" id="16" comparision="The truth is quite other than what you think"/>
+        <item display="" display1="" id="17" comparision="They stopped talking when their boss came in"/>
+        <item display="" display1="" id="18" comparision="They were glad of the examination being over"/>
+        <item display="" display1="" id="19" comparision="This is by far the largest cake in the world"/>
+        <item display="" display1="" id="20" comparision="Whichever you choose, you won't be satisfied"/>
+        <item display="" display1="" id="21" comparision="Will you connect this wire to the television ?"/>
+        <item display="" display1="" id="22" comparision="His words are strongly impressed on my memory"/>
+        <item display="" display1="" id="23" comparision="Is this the fight bus for the Capital Library?"/>
+        <item display="" display1="" id="24" comparision="One third of this area is covered with forest"/>
+        <item display="" display1="" id="25" comparision="They are arguing over who should pay the bill"/>
+        <item display="" display1="" id="26" comparision="Wait a moment, I'll be with you in an instant"/>
+        <item display="" display1="" id="27" comparision="You'll save time not waiting for the elevator"/>
+        <item display="" display1="" id="28" comparision="A clear conscience laughs at false accusation"/>
+        <item display="" display1="" id="29" comparision="I have a headache, and she has a stomachache"/>
+        <item display="" display1="" id="30" comparision="He glared at Bill, ready to teach him a lesson"/>
+        <item display="" display1="" id="31" comparision="I assure you that you will feel no pain at all"/>
+        <item display="" display1="" id="32" comparision="I can't afford to go to a restaurant every day"/>
+        <item display="" display1="" id="33" comparision="I left at 6:00 so that I could catch the train"/>
+        <item display="" display1="" id="34" comparision="I'm afraid I have some rather bad news for you"/>
+        <item display="" display1="" id="35" comparision="Learn to say the fight thing at the fight time"/>
+        <item display="" display1="" id="36" comparision="No wonder you can't sleep when you eat so much"/>
+        <item display="" display1="" id="37" comparision="Please ask her to call me back when she's back"/>
+        <item display="" display1="" id="38" comparision="There are a lot of people in the swimming pool"/>
+        <item display="" display1="" id="39" comparision="They have to work hard to support their family"/>
+        <item display="" display1="" id="40" comparision="This way, he can kill two birds with one stone"/>
+        <item display="" display1="" id="41" comparision="We are all taking medicine against the disease"/>
+        <item display="" display1="" id="42" comparision="Would you please go to a dancing party with me?"/>
+        <item display="" display1="" id="43" comparision="He usually drops in at my place on his way home"/>
+        <item display="" display1="" id="44" comparision="His vanity was hurt by their talking so frankly"/>
+        <item display="" display1="" id="45" comparision="How would you go to Beijing, by air or by train?"/>
+        <item display="" display1="" id="46" comparision="I cannot express how glad I am to hear from him"/>
+        <item display="" display1="" id="47" comparision="If Tom cannot keep his promise, he'll lose face"/>
+        <item display="" display1="" id="48" comparision="I'll still love her even if she doesn't love me"/>
+        <item display="" display1="" id="49" comparision="I received an invitation, but I did not accept it"/>
+        <item display="" display1="" id="50" comparision="If I were you, I would not be bothered by English"/>
+        <item display="" display1="" id="51" comparision="If you don't work, you will fail to pass the exam"/>
+        <item display="" display1="" id="52" comparision="I'm thinking of hanging the lamp from the ceiling"/>
+        <item display="" display1="" id="53" comparision="It is more important to be healthy than bony slim"/>
+        <item display="" display1="" id="54" comparision="Long ago, people believed that the world was flat"/>
+        <item display="" display1="" id="55" comparision="Old tunes are sweetest and old friends are surest"/>
+        <item display="" display1="" id="56" comparision="She makes it clear that she doesn't like swimming"/>
+        <item display="" display1="" id="57" comparision="The constitution guards the liberty of the people"/>
+        <item display="" display1="" id="58" comparision="The doctor examined the soldier's wound carefully"/>
+        <item display="" display1="" id="59" comparision="The harder I study, the better my English will be"/>
+        <item display="" display1="" id="60" comparision="The sun was shining and the sky was crystal clear"/>
+    </content>
+</course>

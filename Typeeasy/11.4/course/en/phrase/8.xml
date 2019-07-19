@@ -1,0 +1,57 @@
+<!DOCTYPE x8.xml>
+<course>
+    <courseInfo security="8/Pzg=" new="false" alias="最常用英语口语8" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="He talks as if he were the head of the office"/>
+        <item display="" display1="" id="1" comparision="His cake is three times bigger than mine"/>
+        <item display="" display1="" id="2" comparision="I am looking forward to your early reply"/>
+        <item display="" display1="" id="3" comparision="I could say nothing but that I was sorry"/>
+        <item display="" display1="" id="4" comparision="I don't know how to express my gratitude"/>
+        <item display="" display1="" id="5" comparision="I have to catch a plane. Could you hurry"/>
+        <item display="" display1="" id="6" comparision="I haven't heard from her for a long time"/>
+        <item display="" display1="" id="7" comparision="I would like to wash the clothes for you"/>
+        <item display="" display1="" id="8" comparision="Let me see your driver's license, please"/>
+        <item display="" display1="" id="9" comparision="She goes to work every day except Sunday"/>
+        <item display="" display1="" id="10" comparision="Take a seat please, make yourself at home"/>
+        <item display="" display1="" id="11" comparision="The damage was caused by external forces"/>
+        <item display="" display1="" id="12" comparision="The doctor advised me to give up smoking"/>
+        <item display="" display1="" id="13" comparision="The flowers make the room more beautiful"/>
+        <item display="" display1="" id="14" comparision="There is a good restaurant on the street"/>
+        <item display="" display1="" id="15" comparision="They covered 120 miles in a single night"/>
+        <item display="" display1="" id="16" comparision="Try to look on the bright side of things"/>
+        <item display="" display1="" id="17" comparision="What's your plan for the summer vacation"/>
+        <item display="" display1="" id="18" comparision="You may pick whichever one you like best"/>
+        <item display="" display1="" id="19" comparision="You're welcome to stay with us next time"/>
+        <item display="" display1="" id="20" comparision="There was a murder in London yesterday"/>
+        <item display="" display1="" id="21" comparision="They stared at the huge tiger with awe"/>
+        <item display="" display1="" id="22" comparision="He never misses a chance to see a movie"/>
+        <item display="" display1="" id="23" comparision="I cannot put up with my noisy roommates"/>
+        <item display="" display1="" id="24" comparision="I will be back by the end of next month"/>
+        <item display="" display1="" id="25" comparision="I'm good at freestyle and breast stroke"/>
+        <item display="" display1="" id="26" comparision="It was your turn to wash them yesterday"/>
+        <item display="" display1="" id="27" comparision="Let's go out to have a dinner, shall we"/>
+        <item display="" display1="" id="28" comparision="Please push the ladder against the wall"/>
+        <item display="" display1="" id="29" comparision="She is standing in the front of the bus"/>
+        <item display="" display1="" id="30" comparision="The doctor asked me to watch what I eat"/>
+        <item display="" display1="" id="31" comparision="The grass is moist early in the morning"/>
+        <item display="" display1="" id="32" comparision="The test finished. We began our holiday"/>
+        <item display="" display1="" id="33" comparision="This question is too complicated for me"/>
+        <item display="" display1="" id="34" comparision="Tony speaks English and he plays tennis"/>
+        <item display="" display1="" id="35" comparision="What is worth doing is worth doing well"/>
+        <item display="" display1="" id="36" comparision="Would you like to go to a party with me"/>
+        <item display="" display1="" id="37" comparision="All at once, a rabbit came out of a hole"/>
+        <item display="" display1="" id="38" comparision="All characters in the book are imaginary"/>
+        <item display="" display1="" id="39" comparision="Do you feel like going to that new disco"/>
+        <item display="" display1="" id="40" comparision="Ducks know how to swim when they are born"/>
+        <item display="" display1="" id="41" comparision="He spent most of his life gathering money"/>
+        <item display="" display1="" id="42" comparision="He usually stays at home with his pet dog"/>
+        <item display="" display1="" id="43" comparision="How peaceful and beautiful the country is"/>
+        <item display="" display1="" id="44" comparision="I am told that you dance wonderfully well"/>
+        <item display="" display1="" id="45" comparision="I have had several conversations with him"/>
+        <item display="" display1="" id="46" comparision="It is the best film that I have ever seen"/>
+        <item display="" display1="" id="47" comparision="It's only a party in honor of my birthday"/>
+        <item display="" display1="" id="48" comparision="Learning English is like building a house"/>
+        <item display="" display1="" id="49" comparision="Listening with your heart is good for you"/>
+        <item display="" display1="" id="50" comparision="My grandpa died of hunger in the old days"/>
+    </content>
+</course>

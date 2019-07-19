@@ -1,0 +1,16 @@
+<!DOCTYPE x100.xml>
+<course>
+    <courseInfo security="" new="false" alias="毛料" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="一位主妇来到百货商店问售货员：“昨天，我在你们这里买了条毛毯，你们告诉我说是全毛的，可我回到家才发现，上面的标签上怎么说是全棉的？”"/>
+        <item display="" display1="" id="1" comparision="“您说得一点不错，夫人。那个标签是专为吃毛料的蛀虫准备的。”"/>
+        <item display="" display1="" id="2" comparision="忏悔"/>
+        <item display="" display1="" id="3" comparision="某人（到教堂〕：神父，我，我，我有罪。"/>
+        <item display="" display1="" id="4" comparision="神父：说吧，我的孩子，有什么事？"/>
+        <item display="" display1="" id="5" comparision="某人：二战时，我藏起了一个被纳粹追捕的犹太人。"/>
+        <item display="" display1="" id="6" comparision="神父：这是好事啊，为什么你觉得有罪呢？"/>
+        <item display="" display1="" id="7" comparision="某人：我把他藏在我家的地下室里，而且，而且，我让他每天交我1500法郎租金。"/>
+        <item display="" display1="" id="8" comparision="神父：你就为这事忏悔？"/>
+        <item display="" display1="" id="9" comparision="某人：但是，我，我直到现在还没告诉他二战已经结束了！"/>
+    </content>
+</course>

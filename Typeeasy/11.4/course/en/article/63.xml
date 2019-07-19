@@ -1,0 +1,23 @@
+<!DOCTYPE x63.xml>
+<course>
+    <courseInfo security="QsIHJlZCBy" new="false" alias="A red, red rose" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="A RED, RED ROSE"/>
+        <item display="" display1="" id="1" comparision="O my Luve's like a red, red rose"/>
+        <item display="" display1="" id="2" comparision="That's newly spring in June:"/>
+        <item display="" display1="" id="3" comparision="O my Luve's like the melodies"/>
+        <item display="" display1="" id="4" comparision="That's sweetly played tune."/>
+        <item display="" display1="" id="5" comparision="As fair art thou, my bonnie lass."/>
+        <item display="" display1="" id="6" comparision="So deep in luve am I:"/>
+        <item display="" display1="" id="7" comparision="And I will luve thee still, my dear,"/>
+        <item display="" display1="" id="8" comparision="Till the seas gang dry."/>
+        <item display="" display1="" id="9" comparision="Till the seas gang dry, my dear,"/>
+        <item display="" display1="" id="10" comparision="And the rocks melt within sun;"/>
+        <item display="" display1="" id="11" comparision="O I will luve thee still, my dear,"/>
+        <item display="" display1="" id="12" comparision="While the sands o'life shall run."/>
+        <item display="" display1="" id="13" comparision="And fare thee week, my luve!"/>
+        <item display="" display1="" id="14" comparision="And fare thee awhile!"/>
+        <item display="" display1="" id="15" comparision="And I will come again, my Luve,"/>
+        <item display="" display1="" id="16" comparision="It was ten thousand mile."/>
+    </content>
+</course>

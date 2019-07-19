@@ -1,0 +1,14 @@
+<!DOCTYPE x10.xml>
+<course>
+    <courseInfo security="8/Pz8=" new="false" alias="假如生活欺骗了你" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="假如生活欺骗了你，"/>
+        <item display="" display1="" id="1" comparision="不要悲伤，不要心急！"/>
+        <item display="" display1="" id="2" comparision="忧郁的日子里须要镇静："/>
+        <item display="" display1="" id="3" comparision="相信吧！快乐的日子将会来临。"/>
+        <item display="" display1="" id="4" comparision="心永远向往着未来；"/>
+        <item display="" display1="" id="5" comparision="现在却常是忧郁："/>
+        <item display="" display1="" id="6" comparision="一切都是瞬息，一切都会将过去；"/>
+        <item display="" display1="" id="7" comparision="而那过去了的，就会成为亲切的怀念。"/>
+    </content>
+</course>

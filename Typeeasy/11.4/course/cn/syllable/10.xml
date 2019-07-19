@@ -1,0 +1,38 @@
+<!DOCTYPE x10.xml>
+<course>
+    <courseInfo security="" new="false" alias="轻声" courseType="cn-syllable"/>
+    <content>
+        <item display="dāozi" display1="刀子" id="0" comparision="daozi"/>
+        <item display="chēzi" display1="车子" id="1" comparision="chezi"/>
+        <item display="sūnzi" display1="孙子" id="2" comparision="sunzi"/>
+        <item display="yātou" display1="丫头" id="3" comparision="yatou"/>
+        <item display="hòutou" display1="后头" id="4" comparision="houtou"/>
+        <item display="gēbo" display1="胳膊" id="5" comparision="gebo"/>
+        <item display="chōuti" display1="抽屉" id="6" comparision="chouti"/>
+        <item display="gūniang" display1="姑娘" id="7" comparision="guniang"/>
+        <item display="shīfu" display1="师傅" id="8" comparision="shifu"/>
+        <item display="cāngying" display1="苍蝇" id="9" comparision="cangying"/>
+        <item display="duōsuo" display1="哆嗦" id="10" comparision="duosuo"/>
+        <item display="tāmen" display1="他们" id="11" comparision="tamen"/>
+        <item display="péngyou" display1="朋友" id="12" comparision="pengyou"/>
+        <item display="shíhou" display1="时候" id="13" comparision="shihou"/>
+        <item display="huánggua" display1="黄瓜" id="14" comparision="huanggua"/>
+        <item display="jìde" display1="记得" id="15" comparision="jide"/>
+        <item display="xīnsi" display1="心思" id="16" comparision="xinsi"/>
+        <item display="zhīshi" display1="知识" id="17" comparision="zhishi"/>
+        <item display="zhāshi" display1="扎实" id="18" comparision="zhashi"/>
+        <item display="ruǎnhuo" display1="软和" id="19" comparision="ruanhuo"/>
+        <item display="nàbian" display1="那边" id="20" comparision="nabian"/>
+        <item display="zàihu" display1="在乎" id="21" comparision="zaihu"/>
+        <item display="lǎopo" display1="老婆" id="22" comparision="laopo"/>
+        <item display="móhu" display1="模糊" id="23" comparision="mohu"/>
+        <item display="yuèliang" display1="月亮" id="24" comparision="yueliang"/>
+        <item display="sǎtuo" display1="洒脱" id="25" comparision="satuo"/>
+        <item display="shìde" display1="似的" id="26" comparision="shide"/>
+        <item display="qìngjia" display1="亲家" id="27" comparision="qingjia"/>
+        <item display="bòji" display1="簸箕" id="28" comparision="boji"/>
+        <item display="jìnxiang" display1="进项" id="29" comparision="jinxiang"/>
+        <item display="piányi" display1="便宜" id="30" comparision="pianyi"/>
+        <item display="bièniu" display1="别扭" id="31" comparision="bieniu"/>
+    </content>
+</course>

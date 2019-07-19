@@ -1,0 +1,26 @@
+<!DOCTYPE x57.xml>
+<course>
+    <courseInfo security="8oMik=" new="true" alias="脑筋急转弯(2)" courseType="test-wb"/>
+    <content>
+        <item display="" display1="" id="0" comparision="什么时候有人敲门，你绝不会说请进？"/>
+        <item display="" display1="" id="1" comparision="答案：在厕所里方便的时候"/>
+        <item display="" display1="" id="2" comparision="人的长寿秘诀是什么？"/>
+        <item display="" display1="" id="3" comparision="答案：保持呼吸，不要断气"/>
+        <item display="" display1="" id="4" comparision="什么东西越生气，它便越大？"/>
+        <item display="" display1="" id="5" comparision="答案：脾气"/>
+        <item display="" display1="" id="6" comparision="一年四季都盛开的花是什么花？"/>
+        <item display="" display1="" id="7" comparision="答案：塑料花"/>
+        <item display="" display1="" id="8" comparision="嫦娥为什么喜欢住在月球上？"/>
+        <item display="" display1="" id="9" comparision="答案：嫦娥爱吃兔肉"/>
+        <item display="" display1="" id="10" comparision="什么地方的路最窄？"/>
+        <item display="" display1="" id="11" comparision="答案：冤家路窄"/>
+        <item display="" display1="" id="12" comparision="太平洋的中间是什么？"/>
+        <item display="" display1="" id="13" comparision="答案：是平字"/>
+        <item display="" display1="" id="14" comparision="一个小孩和一个大人在漆黑的夜晚走路，小孩是大人的儿子，大人却不是小孩的父亲，请问为什么？"/>
+        <item display="" display1="" id="15" comparision="答案：因为他们是母子关系"/>
+        <item display="" display1="" id="16" comparision="两对父子去买帽子，为什么只买了三顶？"/>
+        <item display="" display1="" id="17" comparision="答案：爷爷、爸爸和儿子"/>
+        <item display="" display1="" id="18" comparision="铁锤锤鸡蛋为什么锤不破？"/>
+        <item display="" display1="" id="19" comparision="答案：锤当然不会破了"/>
+    </content>
+</course>

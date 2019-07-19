@@ -1,0 +1,45 @@
+<!DOCTYPE x27.xml>
+<course>
+    <courseInfo security="==" new="false" alias="三字词5" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="应用于"/>
+        <item display="" display1="" id="1" comparision="主动性"/>
+        <item display="" display1="" id="2" comparision="主动权"/>
+        <item display="" display1="" id="3" comparision="盲目性"/>
+        <item display="" display1="" id="4" comparision="高水平"/>
+        <item display="" display1="" id="5" comparision="文学家"/>
+        <item display="" display1="" id="6" comparision="文汇报"/>
+        <item display="" display1="" id="7" comparision="高消费"/>
+        <item display="" display1="" id="8" comparision="说明书"/>
+        <item display="" display1="" id="9" comparision="变电站"/>
+        <item display="" display1="" id="10" comparision="就是说"/>
+        <item display="" display1="" id="11" comparision="主力军"/>
+        <item display="" display1="" id="12" comparision="高层次"/>
+        <item display="" display1="" id="13" comparision="议定书"/>
+        <item display="" display1="" id="14" comparision="永久性"/>
+        <item display="" display1="" id="15" comparision="高质量"/>
+        <item display="" display1="" id="16" comparision="摩托车"/>
+        <item display="" display1="" id="17" comparision="高标准"/>
+        <item display="" display1="" id="18" comparision="许可证"/>
+        <item display="" display1="" id="19" comparision="高血压"/>
+        <item display="" display1="" id="20" comparision="畜牧业"/>
+        <item display="" display1="" id="21" comparision="义务兵"/>
+        <item display="" display1="" id="22" comparision="计算机"/>
+        <item display="" display1="" id="23" comparision="广告牌"/>
+        <item display="" display1="" id="24" comparision="高利率"/>
+        <item display="" display1="" id="25" comparision="高效益"/>
+        <item display="" display1="" id="26" comparision="文化界"/>
+        <item display="" display1="" id="27" comparision="文化宫"/>
+        <item display="" display1="" id="28" comparision="文化馆"/>
+        <item display="" display1="" id="29" comparision="为什么"/>
+        <item display="" display1="" id="30" comparision="文化部"/>
+        <item display="" display1="" id="31" comparision="设计院"/>
+        <item display="" display1="" id="32" comparision="主席台"/>
+        <item display="" display1="" id="33" comparision="评论员"/>
+        <item display="" display1="" id="34" comparision="主席团"/>
+        <item display="" display1="" id="35" comparision="主旋律"/>
+        <item display="" display1="" id="36" comparision="京广线"/>
+        <item display="" display1="" id="37" comparision="广州市"/>
+        <item display="" display1="" id="38" comparision="应该说"/>
+    </content>
+</course>

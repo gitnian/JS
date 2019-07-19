@@ -1,0 +1,31 @@
+<!DOCTYPE x2.xml>
+<course>
+    <courseInfo security="" new="false" alias="小键盘" courseType="nov-number"/>
+    <content>
+        <item display="" display1="" id="0" comparision="0000...."/>
+        <item display="" display1="" id="1" comparision="11112222"/>
+        <item display="" display1="" id="2" comparision="3333"/>
+        <item display="" display1="" id="3" comparision="44445555"/>
+        <item display="" display1="" id="4" comparision="6666++++"/>
+        <item display="" display1="" id="5" comparision="77778888"/>
+        <item display="" display1="" id="6" comparision="9999++++"/>
+        <item display="" display1="" id="7" comparision="////****"/>
+        <item display="" display1="" id="8" comparision="----"/>
+        <item display="" display1="" id="9" comparision="0.123"/>
+        <item display="" display1="" id="10" comparision="456+789+"/>
+        <item display="" display1="" id="11" comparision="/*-"/>
+        <item display="" display1="" id="12" comparision="0.123"/>
+        <item display="" display1="" id="13" comparision="456+789+"/>
+        <item display="" display1="" id="14" comparision="/*-"/>
+        <item display="" display1="" id="15" comparision="-*/"/>
+        <item display="" display1="" id="16" comparision="+987+654"/>
+        <item display="" display1="" id="17" comparision="321.0"/>
+        <item display="" display1="" id="18" comparision="-*/"/>
+        <item display="" display1="" id="19" comparision="+987+654"/>
+        <item display="" display1="" id="20" comparision="321.0"/>
+        <item display="" display1="" id="21" comparision="0123456789"/>
+        <item display="" display1="" id="22" comparision="+-*/."/>
+        <item display="" display1="" id="23" comparision="0123456789"/>
+        <item display="" display1="" id="24" comparision="+-*/."/>
+    </content>
+</course>

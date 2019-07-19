@@ -1,0 +1,18 @@
+<!DOCTYPE x5.xml>
+<course>
+    <courseInfo security="JlYXV0eQ==" new="false" alias="The beauty" courseType="test-en"/>
+    <content>
+        <item display="" display1="" id="0" comparision="Thy beauty haunts me heart and soul,"/>
+        <item display="" display1="" id="1" comparision="O thou fair moon so close and bright;"/>
+        <item display="" display1="" id="2" comparision="Thy beauty makes me like the child"/>
+        <item display="" display1="" id="3" comparision="That cries aloud to own thy light:"/>
+        <item display="" display1="" id="4" comparision="The little child that lifts each arm"/>
+        <item display="" display1="" id="5" comparision="To press thee to her bosom warm."/>
+        <item display="" display1="" id="6" comparision="Though there are birds that sing this night"/>
+        <item display="" display1="" id="7" comparision="With thy white beams across their throats,"/>
+        <item display="" display1="" id="8" comparision="Let my deep silence speak for me"/>
+        <item display="" display1="" id="9" comparision="More than for them their sweetest notes:"/>
+        <item display="" display1="" id="10" comparision="Who worships thee till music fails"/>
+        <item display="" display1="" id="11" comparision="Is greater than nightingales."/>
+    </content>
+</course>

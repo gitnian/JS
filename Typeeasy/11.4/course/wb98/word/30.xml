@@ -1,0 +1,50 @@
+<!DOCTYPE x30.xml>
+<course>
+    <courseInfo security="" new="false" alias="多字词" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="马克思主义"/>
+        <item display="" display1="" id="1" comparision="历史唯物主义"/>
+        <item display="" display1="" id="2" comparision="更上一层楼"/>
+        <item display="" display1="" id="3" comparision="政治协商会议"/>
+        <item display="" display1="" id="4" comparision="现代化建设"/>
+        <item display="" display1="" id="5" comparision="理论联系实际"/>
+        <item display="" display1="" id="6" comparision="常务委员会"/>
+        <item display="" display1="" id="7" comparision="坚持四项基本原则"/>
+        <item display="" display1="" id="8" comparision="中共中央总书记"/>
+        <item display="" display1="" id="9" comparision="中国共产党"/>
+        <item display="" display1="" id="10" comparision="中国科学院"/>
+        <item display="" display1="" id="11" comparision="中国人民解放军"/>
+        <item display="" display1="" id="12" comparision="中国人民银行"/>
+        <item display="" display1="" id="13" comparision="中央政治局"/>
+        <item display="" display1="" id="14" comparision="中央电视台"/>
+        <item display="" display1="" id="15" comparision="中央办公厅"/>
+        <item display="" display1="" id="16" comparision="中央国家机关"/>
+        <item display="" display1="" id="17" comparision="中央书记处"/>
+        <item display="" display1="" id="18" comparision="中央委员会"/>
+        <item display="" display1="" id="19" comparision="中央人民广播电台"/>
+        <item display="" display1="" id="20" comparision="中华人民共和国"/>
+        <item display="" display1="" id="21" comparision="国务院总理"/>
+        <item display="" display1="" id="22" comparision="四个现代化"/>
+        <item display="" display1="" id="23" comparision="内蒙古自治区"/>
+        <item display="" display1="" id="24" comparision="发展中国家"/>
+        <item display="" display1="" id="25" comparision="以经济建设为中心"/>
+        <item display="" display1="" id="26" comparision="民主集中制"/>
+        <item display="" display1="" id="27" comparision="军事委员会"/>
+        <item display="" display1="" id="28" comparision="西藏自治区"/>
+        <item display="" display1="" id="29" comparision="毛泽东思想"/>
+        <item display="" display1="" id="30" comparision="科学技术委员会"/>
+        <item display="" display1="" id="31" comparision="新闻发布会"/>
+        <item display="" display1="" id="32" comparision="新疆维吾尔自治区"/>
+        <item display="" display1="" id="33" comparision="辩证唯物主义"/>
+        <item display="" display1="" id="34" comparision="人大常委会"/>
+        <item display="" display1="" id="35" comparision="全国各族人民"/>
+        <item display="" display1="" id="36" comparision="全国人大常委会"/>
+        <item display="" display1="" id="37" comparision="人民大会堂"/>
+        <item display="" display1="" id="38" comparision="全民所有制"/>
+        <item display="" display1="" id="39" comparision="人民代表大会"/>
+        <item display="" display1="" id="40" comparision="个人所得税"/>
+        <item display="" display1="" id="41" comparision="广西壮族自治区"/>
+        <item display="" display1="" id="42" comparision="为人民服务"/>
+        <item display="" display1="" id="43" comparision="评论员文章"/>
+    </content>
+</course>

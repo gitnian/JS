@@ -1,0 +1,31 @@
+<!DOCTYPE x62.xml>
+<course>
+    <courseInfo security="RhZmZvZGls" new="false" alias="The daffodils" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="THE DAFFODILS"/>
+        <item display="" display1="" id="1" comparision="I wandered lonely as a cloud"/>
+        <item display="" display1="" id="2" comparision="That floats on height o'er vales and hills,"/>
+        <item display="" display1="" id="3" comparision="When all the once I saw a crowd,"/>
+        <item display="" display1="" id="4" comparision="A host, of golden daffodils,"/>
+        <item display="" display1="" id="5" comparision="Beside the lake, beneath the trees,"/>
+        <item display="" display1="" id="6" comparision="Fluttering and dancing in the breeze."/>
+        <item display="" display1="" id="7" comparision="Continuous as the stars that shine,"/>
+        <item display="" display1="" id="8" comparision="And twinkle on the milky way,"/>
+        <item display="" display1="" id="9" comparision="They stretched in never-ending line"/>
+        <item display="" display1="" id="10" comparision="Along the margin of a day:"/>
+        <item display="" display1="" id="11" comparision="Ten thousand saw I at a glance"/>
+        <item display="" display1="" id="12" comparision="Tossing their heads in dance."/>
+        <item display="" display1="" id="13" comparision="The waves beside them danced, but they"/>
+        <item display="" display1="" id="14" comparision="Out-did the sparking waves in glee:"/>
+        <item display="" display1="" id="15" comparision="A poet could not but be gay"/>
+        <item display="" display1="" id="16" comparision="In such a jocund company!"/>
+        <item display="" display1="" id="17" comparision="I grazed and grazed--but little thought"/>
+        <item display="" display1="" id="18" comparision="What wealth the show to me had brought;"/>
+        <item display="" display1="" id="19" comparision="For oft, when on my couch I lie"/>
+        <item display="" display1="" id="20" comparision="In vacant or in pensive mood,"/>
+        <item display="" display1="" id="21" comparision="They flash upon that inward eye"/>
+        <item display="" display1="" id="22" comparision="Which is the bliss of solitude;"/>
+        <item display="" display1="" id="23" comparision="And then my heart with pleasure fills,"/>
+        <item display="" display1="" id="24" comparision="And dances with the daffodils."/>
+    </content>
+</course>

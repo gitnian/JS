@@ -1,0 +1,14 @@
+<!DOCTYPE x105.xml>
+<course>
+    <courseInfo security="" new="false" alias="浓度" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="浓度"/>
+        <item display="" display1="" id="1" comparision="8岁的玛玛多把一杯葡萄酒喝得精光。父亲生气地说：“不应该这样，我的儿子。这酒对你来说是太浓了，含有11度的酒精。"/>
+        <item display="" display1="" id="2" comparision="“这没什么，爸爸。才11度，当我发烧时，39度我也挺住了。”"/>
+        <item display="" display1="" id="3" comparision="历史与女友"/>
+        <item display="" display1="" id="4" comparision="历史老师：为什么早退？"/>
+        <item display="" display1="" id="5" comparision="八力：我有一个重要的约会。"/>
+        <item display="" display1="" id="6" comparision="历史老师：历史重要还是女友重要？"/>
+        <item display="" display1="" id="7" comparision="八力：如果我再迟到，她就要成为历史了！！！"/>
+    </content>
+</course>

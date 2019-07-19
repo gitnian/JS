@@ -1,0 +1,20 @@
+<!DOCTYPE x34.xml>
+<course>
+    <courseInfo security="8/Pw==" new="false" alias="格言_正确态度" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="谦卑并不意味着多顾他人少顾自己，也不意味着承认自己是个无能之辈，而是意味着从根本上把自己置之度外。"/>
+        <item display="" display1="" id="1" comparision="一个人应当一次只想一件东西，并持之以恒，这样便有希望得到它。"/>
+        <item display="" display1="" id="2" comparision="但是我却什么都想，结果是什么也抓不着。"/>
+        <item display="" display1="" id="3" comparision="每次我都发现，当一个所追求的东西唾手可得时，我正在追求别的东西。太晚了。"/>
+        <item display="" display1="" id="4" comparision="节食比绝食更难。饮食适量需要头脑清醒，而滴水不进只需死硬的意志。"/>
+        <item display="" display1="" id="5" comparision="成名的艺术家反为盛名所拘束，所以他们最早的作品往往是最好的。"/>
+        <item display="" display1="" id="6" comparision="不惜牺牲自由以图苟安的人，既不配享受自由，也不配获得安全。"/>
+        <item display="" display1="" id="7" comparision="人类是唯一会脸红的动物，或是唯一该脸红的动物。"/>
+        <item display="" display1="" id="8" comparision="如果我们把每个人的不幸堆成一堆由大家均分，大多数人都会甘愿接受一份，欣然离去。"/>
+        <item display="" display1="" id="9" comparision="呵！高尚的风度！多可怕的东西！风度乃是创造力的敌人。"/>
+        <item display="" display1="" id="10" comparision="人生有两出悲剧。一是万念俱灰；另一是踌躇满志。"/>
+        <item display="" display1="" id="11" comparision="不要企图永远活下去，你不会成功的。"/>
+        <item display="" display1="" id="12" comparision="人就个人而言终有一死，就整体而言则是不朽的。"/>
+        <item display="" display1="" id="13" comparision="猝然死去本无甚苦痛，长期累死倒真难以忍受。"/>
+    </content>
+</course>

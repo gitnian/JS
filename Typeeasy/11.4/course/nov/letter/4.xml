@@ -1,0 +1,37 @@
+<!DOCTYPE x4.xml>
+<course>
+    <courseInfo security="==" new="false" alias="下排键位" courseType="nov-letter"/>
+    <content>
+        <item display="" display1="" id="0" comparision="ZZZZXXXX"/>
+        <item display="" display1="" id="1" comparision="CCCCVVVV"/>
+        <item display="" display1="" id="2" comparision="BBBBNNNN"/>
+        <item display="" display1="" id="3" comparision="MMMM,,,,"/>
+        <item display="" display1="" id="4" comparision="....////"/>
+        <item display="" display1="" id="5" comparision="ZXCVB"/>
+        <item display="" display1="" id="6" comparision="NM,./"/>
+        <item display="" display1="" id="7" comparision="/.,MN"/>
+        <item display="" display1="" id="8" comparision="BVCXZ"/>
+        <item display="" display1="" id="9" comparision="ZXCVBNM,./"/>
+        <item display="" display1="" id="10" comparision="/.,MNBVCXZ"/>
+        <item display="" display1="" id="11" comparision="BNVMC,X.Z/"/>
+        <item display="" display1="" id="12" comparision="NBMV,C.X/Z"/>
+        <item display="" display1="" id="13" comparision="Z/X.C,VMBN"/>
+        <item display="" display1="" id="14" comparision="/Z.X,CMVNB"/>
+        <item display="" display1="" id="15" comparision="BNBNBN"/>
+        <item display="" display1="" id="16" comparision="VMVMVM"/>
+        <item display="" display1="" id="17" comparision="C,C,C,"/>
+        <item display="" display1="" id="18" comparision="X.X.X."/>
+        <item display="" display1="" id="19" comparision="Z/Z/Z/"/>
+        <item display="" display1="" id="20" comparision="NBNBNB"/>
+        <item display="" display1="" id="21" comparision="MVMVMV"/>
+        <item display="" display1="" id="22" comparision=",C,C,C"/>
+        <item display="" display1="" id="23" comparision=".X.X.X"/>
+        <item display="" display1="" id="24" comparision="/Z/Z/Z"/>
+        <item display="" display1="" id="25" comparision="ZXCVB"/>
+        <item display="" display1="" id="26" comparision="NM,./"/>
+        <item display="" display1="" id="27" comparision="/.,MN"/>
+        <item display="" display1="" id="28" comparision="BVCXZ"/>
+        <item display="" display1="" id="29" comparision="ZXCVBNM,./"/>
+        <item display="" display1="" id="30" comparision="/.,MNBVCXZ"/>
+    </content>
+</course>

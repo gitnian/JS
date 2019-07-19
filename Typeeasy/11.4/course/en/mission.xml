@@ -1,0 +1,5 @@
+<mission>
+	<task index="1" speed="70" precision="95" description="en-word"/>
+	<task index="2" speed="75" precision="95" description="en-phrase"/>
+	<task index="3" speed="100" precision="95" description="en-article"/>
+</mission>

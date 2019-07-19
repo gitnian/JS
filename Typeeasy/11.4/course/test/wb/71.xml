@@ -1,0 +1,11 @@
+<!DOCTYPE x71.xml>
+<course>
+    <courseInfo security="8/Pz8/" new="true" alias="治好腿有残疾的乞丐" courseType="test-wb"/>
+    <content>
+        <item display="" display1="" id="0" comparision="《治好腿有残疾的乞丐》"/>
+        <item display="" display1="" id="1" comparision="本人医生。"/>
+        <item display="" display1="" id="2" comparision="今天在街上看到一个腿有残疾的乞丐，就想试试看能不能治好他。"/>
+        <item display="" display1="" id="3" comparision="于是我拿起了他面前的破碗撒腿就跑。"/>
+        <item display="" display1="" id="4" comparision="就这样，我治好了他！"/>
+    </content>
+</course>

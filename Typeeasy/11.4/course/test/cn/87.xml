@@ -1,0 +1,17 @@
+<!DOCTYPE x87.xml>
+<course>
+    <courseInfo security="==" new="true" alias="儿子的话" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="《儿子的话》"/>
+        <item display="" display1="" id="1" comparision="爸爸陪客人聊天，儿子有话要说。"/>
+        <item display="" display1="" id="2" comparision="爸爸见了说：“别这么鬼头鬼脑的，有话大声说。”"/>
+        <item display="" display1="" id="3" comparision="儿子大声说：“妈妈让我告诉你，别留客人吃饭！”"/>
+        <item display="" display1="" id="4" comparision="《加个班》"/>
+        <item display="" display1="" id="5" comparision="前天中午，领导突然关切地问：你有女朋友吗。"/>
+        <item display="" display1="" id="6" comparision="我憨笑着说还没有。"/>
+        <item display="" display1="" id="7" comparision="领导严肃地说：“反正你也没女朋友，晚上留下来加个班。”"/>
+        <item display="" display1="" id="8" comparision="今天中午，领导又关切地问：你有女朋友吗。"/>
+        <item display="" display1="" id="9" comparision="我想了想说：“呵呵，昨天刚谈了一个。”"/>
+        <item display="" display1="" id="10" comparision="领导又严肃地说：“既然你都有女朋友了，也用不着满大街去找了，晚上留下来加个班。”"/>
+    </content>
+</course>

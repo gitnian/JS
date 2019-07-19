@@ -1,0 +1,37 @@
+<!DOCTYPE x3.xml>
+<course>
+    <courseInfo security="==" new="false" alias="上排键位" courseType="nov-letter"/>
+    <content>
+        <item display="" display1="" id="0" comparision="QQQQWWWW"/>
+        <item display="" display1="" id="1" comparision="EEEERRRR"/>
+        <item display="" display1="" id="2" comparision="TTTTYYYY"/>
+        <item display="" display1="" id="3" comparision="UUUUIIII"/>
+        <item display="" display1="" id="4" comparision="OOOOPPPP"/>
+        <item display="" display1="" id="5" comparision="QWERT"/>
+        <item display="" display1="" id="6" comparision="YUIOP"/>
+        <item display="" display1="" id="7" comparision="POIUY"/>
+        <item display="" display1="" id="8" comparision="TREWQ"/>
+        <item display="" display1="" id="9" comparision="QWERTYUIOP"/>
+        <item display="" display1="" id="10" comparision="POIUYTREWQ"/>
+        <item display="" display1="" id="11" comparision="TYRUEIWOQP"/>
+        <item display="" display1="" id="12" comparision="YTURIEOWPQ"/>
+        <item display="" display1="" id="13" comparision="QPWOEIRUTY"/>
+        <item display="" display1="" id="14" comparision="PQOWIEURYT"/>
+        <item display="" display1="" id="15" comparision="TYTYTY"/>
+        <item display="" display1="" id="16" comparision="RURURU"/>
+        <item display="" display1="" id="17" comparision="EIEIEI"/>
+        <item display="" display1="" id="18" comparision="WOWOWO"/>
+        <item display="" display1="" id="19" comparision="QPQPQP"/>
+        <item display="" display1="" id="20" comparision="YTYTYT"/>
+        <item display="" display1="" id="21" comparision="URURUR"/>
+        <item display="" display1="" id="22" comparision="IEIEIE"/>
+        <item display="" display1="" id="23" comparision="OWOWOW"/>
+        <item display="" display1="" id="24" comparision="PQPQPQ"/>
+        <item display="" display1="" id="25" comparision="QWERT"/>
+        <item display="" display1="" id="26" comparision="YUIOP"/>
+        <item display="" display1="" id="27" comparision="POIUY"/>
+        <item display="" display1="" id="28" comparision="TREWQ"/>
+        <item display="" display1="" id="29" comparision="QWERTYUIOP"/>
+        <item display="" display1="" id="30" comparision="POIUYTREWQ"/>
+    </content>
+</course>

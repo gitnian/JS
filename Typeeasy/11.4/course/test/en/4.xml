@@ -1,0 +1,19 @@
+<!DOCTYPE x4.xml>
+<course>
+    <courseInfo security="c=" new="false" alias="I saw" courseType="test-en"/>
+    <content>
+        <item display="" display1="" id="0" comparision="I saw the stars against the summer night"/>
+        <item display="" display1="" id="1" comparision="Still trembling as they trembled when the light"/>
+        <item display="" display1="" id="2" comparision="First fell upon them from the further world"/>
+        <item display="" display1="" id="3" comparision="I could not bend my proud humanity"/>
+        <item display="" display1="" id="4" comparision="To kneel before the cold immensity"/>
+        <item display="" display1="" id="5" comparision="I, who had youth and love, I, who could know"/>
+        <item display="" display1="" id="6" comparision="They,flotsam on the ethereal ebb and flow"/>
+        <item display="" display1="" id="7" comparision="Dead things unmoved by immaterial fire"/>
+        <item display="" display1="" id="8" comparision="Of hope and anguish and divine desire"/>
+        <item display="" display1="" id="9" comparision="They were not more omnipotent than I"/>
+        <item display="" display1="" id="10" comparision="They could not see and dream and change and die"/>
+        <item display="" display1="" id="11" comparision="I could not bow before infinity"/>
+        <item display="" display1="" id="12" comparision="The silent grandeur could not conquer me"/>
+    </content>
+</course>

@@ -1,0 +1,26 @@
+<!DOCTYPE x65.xml>
+<course>
+    <courseInfo security="NoZXBoZXJk" new="false" alias="The shepherdess" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="THE SHEPHERDESS"/>
+        <item display="" display1="" id="1" comparision="She walks--the lady of my delight--"/>
+        <item display="" display1="" id="2" comparision="A shepherdess of sheep."/>
+        <item display="" display1="" id="3" comparision="Her flocks are thoughts."/>
+        <item display="" display1="" id="4" comparision="She keep them white;"/>
+        <item display="" display1="" id="5" comparision="She guards them from the steep."/>
+        <item display="" display1="" id="6" comparision="She feeds them on the fragrant height"/>
+        <item display="" display1="" id="7" comparision="And folds them in for sleep."/>
+        <item display="" display1="" id="8" comparision="She roams maternal hills and bright,"/>
+        <item display="" display1="" id="9" comparision="Dark valleys safe and deep."/>
+        <item display="" display1="" id="10" comparision="Into that tender breast at night"/>
+        <item display="" display1="" id="11" comparision="The chaste stars may peep."/>
+        <item display="" display1="" id="12" comparision="She walks--the lady of my delight--"/>
+        <item display="" display1="" id="13" comparision="A shepherdess of sheep."/>
+        <item display="" display1="" id="14" comparision="She holds her little thoughts in sight,"/>
+        <item display="" display1="" id="15" comparision="Though gay they run and leap."/>
+        <item display="" display1="" id="16" comparision="She is so circumspect and right;"/>
+        <item display="" display1="" id="17" comparision="She has her soul to keep."/>
+        <item display="" display1="" id="18" comparision="She walks--the lady of my delight--"/>
+        <item display="" display1="" id="19" comparision="A shepherdess of sheep."/>
+    </content>
+</course>

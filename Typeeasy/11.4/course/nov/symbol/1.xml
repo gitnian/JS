@@ -1,0 +1,24 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="==" new="false" alias="下排符号" courseType="nov-symbol"/>
+    <content>
+        <item display="" display1="" id="0" comparision=",,,,...."/>
+        <item display="" display1="" id="1" comparision="////"/>
+        <item display="" display1="" id="2" comparision=";;;;''''"/>
+        <item display="" display1="" id="3" comparision="[[[[]]]]"/>
+        <item display="" display1="" id="4" comparision="----===="/>
+        <item display="" display1="" id="5" comparision="\\\\````"/>
+        <item display="" display1="" id="6" comparision=",./;'"/>
+        <item display="" display1="" id="7" comparision="[]-=\`"/>
+        <item display="" display1="" id="8" comparision=",./;'"/>
+        <item display="" display1="" id="9" comparision="[]-=\`"/>
+        <item display="" display1="" id="10" comparision="/.,';"/>
+        <item display="" display1="" id="11" comparision="][\=-`"/>
+        <item display="" display1="" id="12" comparision="/.,';"/>
+        <item display="" display1="" id="13" comparision="][\=-`"/>
+        <item display="" display1="" id="14" comparision="`-=\"/>
+        <item display="" display1="" id="15" comparision="[];',./"/>
+        <item display="" display1="" id="16" comparision="`-=\"/>
+        <item display="" display1="" id="17" comparision="[];',./"/>
+    </content>
+</course>

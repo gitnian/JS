@@ -1,0 +1,62 @@
+<!DOCTYPE x65.xml>
+<course>
+    <courseInfo security="8=" new="false" alias="近体诗八首" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="《山居秋暝》（王维）"/>
+        <item display="" display1="" id="1" comparision="空山新雨后，天气晚来秋。"/>
+        <item display="" display1="" id="2" comparision="明月松间照，清泉石上流。"/>
+        <item display="" display1="" id="3" comparision="竹渲归浣女，莲动下渔舟。"/>
+        <item display="" display1="" id="4" comparision="随意春芳歇，王孙自可留。"/>
+        <item display="" display1="" id="5" comparision="《登高》（杜甫）"/>
+        <item display="" display1="" id="6" comparision="风急天高猿啸哀，渚清沙白鸟飞回。"/>
+        <item display="" display1="" id="7" comparision="无边落木萧萧下，不尽长江滚滚来。"/>
+        <item display="" display1="" id="8" comparision="万里悲秋常作客，百年多病独登台。"/>
+        <item display="" display1="" id="9" comparision="艰难苦恨繁霜鬓，潦倒新停浊酒杯。"/>
+        <item display="" display1="" id="10" comparision="《越中览古》（李白）"/>
+        <item display="" display1="" id="11" comparision="越王勾践破吴归，"/>
+        <item display="" display1="" id="12" comparision="战士还家尽锦衣。"/>
+        <item display="" display1="" id="13" comparision="宫女如花满春殿，"/>
+        <item display="" display1="" id="14" comparision="只今惟有鹧鸪飞。"/>
+        <item display="" display1="" id="15" comparision="《蜀相》（杜甫）"/>
+        <item display="" display1="" id="16" comparision="丞相祠堂何处寻，"/>
+        <item display="" display1="" id="17" comparision="锦官城外柏森森。"/>
+        <item display="" display1="" id="18" comparision="映阶碧草自春色，"/>
+        <item display="" display1="" id="19" comparision="隔叶黄鹂空好音。"/>
+        <item display="" display1="" id="20" comparision="三顾频烦天下计，"/>
+        <item display="" display1="" id="21" comparision="两朝开济老臣心。"/>
+        <item display="" display1="" id="22" comparision="出师未捷身先死，"/>
+        <item display="" display1="" id="23" comparision="长使英雄泪满襟。"/>
+        <item display="" display1="" id="24" comparision="《锦瑟》（李商隐）"/>
+        <item display="" display1="" id="25" comparision="锦瑟无端五十弦，"/>
+        <item display="" display1="" id="26" comparision="一弦一柱思华年。"/>
+        <item display="" display1="" id="27" comparision="庄生晓梦迷蝴蝶，"/>
+        <item display="" display1="" id="28" comparision="望帝春心托杜鹃。"/>
+        <item display="" display1="" id="29" comparision="沧海月明珠有泪，"/>
+        <item display="" display1="" id="30" comparision="蓝田日暖玉生烟。"/>
+        <item display="" display1="" id="31" comparision="此情可待成追忆，"/>
+        <item display="" display1="" id="32" comparision="只是当时已惘然。"/>
+        <item display="" display1="" id="33" comparision="《书愤》（陆游）"/>
+        <item display="" display1="" id="34" comparision="早岁那知世事艰，"/>
+        <item display="" display1="" id="35" comparision="中原北望气如山。"/>
+        <item display="" display1="" id="36" comparision="楼船夜雪瓜洲渡，"/>
+        <item display="" display1="" id="37" comparision="铁马秋风大散关。"/>
+        <item display="" display1="" id="38" comparision="塞上长城空自许，"/>
+        <item display="" display1="" id="39" comparision="镜中衰鬓已先斑。"/>
+        <item display="" display1="" id="40" comparision="《出师》一表真名世，"/>
+        <item display="" display1="" id="41" comparision="千载谁堪伯仲间。"/>
+        <item display="" display1="" id="42" comparision="《石头城》（刘禹锡）"/>
+        <item display="" display1="" id="43" comparision="山围故国周遭在，"/>
+        <item display="" display1="" id="44" comparision="潮打空城寂寞回。"/>
+        <item display="" display1="" id="45" comparision="淮水东边旧时月，"/>
+        <item display="" display1="" id="46" comparision="夜深还过女墙来。"/>
+        <item display="" display1="" id="47" comparision="《临安春雨初霁》（陆游）"/>
+        <item display="" display1="" id="48" comparision="世味年来薄似纱，"/>
+        <item display="" display1="" id="49" comparision="谁令骑马客京华。"/>
+        <item display="" display1="" id="50" comparision="小楼一夜听春雨，"/>
+        <item display="" display1="" id="51" comparision="深巷明朝卖杏花。"/>
+        <item display="" display1="" id="52" comparision="矮纸斜行闲作草，"/>
+        <item display="" display1="" id="53" comparision="晴窗细乳细分茶。"/>
+        <item display="" display1="" id="54" comparision="素衣莫起风尘叹，"/>
+        <item display="" display1="" id="55" comparision="犹及清明可到家。"/>
+    </content>
+</course>

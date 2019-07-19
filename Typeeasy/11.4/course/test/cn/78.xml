@@ -1,0 +1,28 @@
+<!DOCTYPE x78.xml>
+<course>
+    <courseInfo security="8oNSk=" new="true" alias="脑筋急转弯(5)" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="什么事天不知地知，你不知我知？"/>
+        <item display="" display1="" id="1" comparision="答案：鞋底破了"/>
+        <item display="" display1="" id="2" comparision="有两个人，一个面朝南，一个面朝北的站立着，不准回头，不准走动，不准照镜子，问他们能否看到对方的脸？"/>
+        <item display="" display1="" id="3" comparision="答案：当然能，他们是面对面站着的"/>
+        <item display="" display1="" id="4" comparision="什么蛋打不烂，煮不熟，更不能吃？"/>
+        <item display="" display1="" id="5" comparision="答案：考试得的零蛋“0”"/>
+        <item display="" display1="" id="6" comparision="用椰子和西瓜打头哪一个比较痛？"/>
+        <item display="" display1="" id="7" comparision="答案：头比较痛"/>
+        <item display="" display1="" id="8" comparision="孔子与孟子有何不同？"/>
+        <item display="" display1="" id="9" comparision="答案：孔子的子在左边。孟子的子在上边"/>
+        <item display="" display1="" id="10" comparision="借什么可以不还？"/>
+        <item display="" display1="" id="11" comparision="答案：借光"/>
+        <item display="" display1="" id="12" comparision="进动物园看到的第一个动物是什么？"/>
+        <item display="" display1="" id="13" comparision="答案：售票员"/>
+        <item display="" display1="" id="14" comparision="放大镜不能放大的东西是什么？"/>
+        <item display="" display1="" id="15" comparision="答案：角度"/>
+        <item display="" display1="" id="16" comparision="什么东西倒立后会增加一半？"/>
+        <item display="" display1="" id="17" comparision="答案：6"/>
+        <item display="" display1="" id="18" comparision="你只要叫它的名字就会把它破坏，它是什么？"/>
+        <item display="" display1="" id="19" comparision="答案：沉默"/>
+        <item display="" display1="" id="20" comparision="什么东西经常会来，但却从没真正来过？"/>
+        <item display="" display1="" id="21" comparision="答案：明天"/>
+    </content>
+</course>

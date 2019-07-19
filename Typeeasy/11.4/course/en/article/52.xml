@@ -1,0 +1,13 @@
+<!DOCTYPE x52.xml>
+<course>
+    <courseInfo security="BhbGwgb3Zl" new="false" alias="Hurt all over" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="Hurt all over"/>
+        <item display="" display1="" id="1" comparision="A young woman went to her doctor complaining of pain."/>
+        <item display="" display1="" id="2" comparision="&quot;Where are you hurting?&quot; asked the doctor."/>
+        <item display="" display1="" id="3" comparision="&quot;You have to help me, I hurt all over&quot;, said the woman."/>
+        <item display="" display1="" id="4" comparision="&quot;What do you mean, all over?&quot; asked the doctor, &quot;be a little more specific.&quot;"/>
+        <item display="" display1="" id="5" comparision="The woman touched her right knee with her index finger and yelled, &quot;Own, that hurts.&quot; Then she touched her left cheek and again yelled, &quot;Ouch! That hurts, too.&quot; Then she touched her right earlobe, &quot;Own, even THAT hurts&quot;, she cried."/>
+        <item display="" display1="" id="6" comparision="The doctor checked her thoughtfully for a moment and told her his diagnosis, &quot;You have a broken finger.&quot;"/>
+    </content>
+</course>

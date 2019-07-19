@@ -1,0 +1,106 @@
+<!DOCTYPE x7.xml>
+<course>
+    <courseInfo security="8/Pzc=" new="false" alias="最常用英语口语7" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="I am sick of always waiting for you"/>
+        <item display="" display1="" id="1" comparision="I appreciate John's helping in time"/>
+        <item display="" display1="" id="2" comparision="I bought it the day it was released"/>
+        <item display="" display1="" id="3" comparision="I doubted whether the story is true"/>
+        <item display="" display1="" id="4" comparision="I learnt that I had passed the test"/>
+        <item display="" display1="" id="5" comparision="I will seek from my doctor's advice"/>
+        <item display="" display1="" id="6" comparision="Ice cream is popular among children"/>
+        <item display="" display1="" id="7" comparision="I'd like to get this film developed"/>
+        <item display="" display1="" id="8" comparision="In a word, I am tired of everything"/>
+        <item display="" display1="" id="9" comparision="Let us do it by ourselves, will you"/>
+        <item display="" display1="" id="10" comparision="May I know the quantity you require"/>
+        <item display="" display1="" id="11" comparision="Nobody has ever solved this problem"/>
+        <item display="" display1="" id="12" comparision="Our school covers 100 square meters"/>
+        <item display="" display1="" id="13" comparision="People enjoyed the stamps very much"/>
+        <item display="" display1="" id="14" comparision="The editor over looked a print error"/>
+        <item display="" display1="" id="15" comparision="The sudden barking frightened Clara"/>
+        <item display="" display1="" id="16" comparision="The teams are coming onto the field"/>
+        <item display="" display1="" id="17" comparision="There is a mark of ink on his shirt"/>
+        <item display="" display1="" id="18" comparision="There isn't any water in the bottle"/>
+        <item display="" display1="" id="19" comparision="This joke has gone a little too far"/>
+        <item display="" display1="" id="20" comparision="We arrived in London this afternoon"/>
+        <item display="" display1="" id="21" comparision="We can't go out because of the rain"/>
+        <item display="" display1="" id="22" comparision="We should make good use of our time"/>
+        <item display="" display1="" id="23" comparision="We should save unnecessary expenses"/>
+        <item display="" display1="" id="24" comparision="You may have heard of Birth Control"/>
+        <item display="" display1="" id="25" comparision="After a pause he continued his story"/>
+        <item display="" display1="" id="26" comparision="As you know, I am a very kind person"/>
+        <item display="" display1="" id="27" comparision="He dare not tell us his evil conduct"/>
+        <item display="" display1="" id="28" comparision="I can express myself in good English"/>
+        <item display="" display1="" id="29" comparision="I'll furnish my house with furniture"/>
+        <item display="" display1="" id="30" comparision="It seemed as if there was no way out"/>
+        <item display="" display1="" id="31" comparision="It's the hottest day I've had so far"/>
+        <item display="" display1="" id="32" comparision="Mr. Smith is in charge of this class"/>
+        <item display="" display1="" id="33" comparision="Mr. Smith taught English at a school"/>
+        <item display="" display1="" id="34" comparision="None of us is afraid of difficulties"/>
+        <item display="" display1="" id="35" comparision="Our school is in the east of Beijing"/>
+        <item display="" display1="" id="36" comparision="She really wishes her clock had rung"/>
+        <item display="" display1="" id="37" comparision="She teaches foreign students Chinese"/>
+        <item display="" display1="" id="38" comparision="The question will be settled tonight"/>
+        <item display="" display1="" id="39" comparision="The weight is too much for my height"/>
+        <item display="" display1="" id="40" comparision="There are mice in Mrs. Lee's kitchen"/>
+        <item display="" display1="" id="41" comparision="There is no one but hopes to be rich"/>
+        <item display="" display1="" id="42" comparision="There'll be some sport reviews on TV"/>
+        <item display="" display1="" id="43" comparision="This company is our regular customer"/>
+        <item display="" display1="" id="44" comparision="This is a good example of his poetry"/>
+        <item display="" display1="" id="45" comparision="What we read influences our thinking"/>
+        <item display="" display1="" id="46" comparision="Words can't express what I felt then"/>
+        <item display="" display1="" id="47" comparision="You really have an ear for pop music"/>
+        <item display="" display1="" id="48" comparision="A bad workman quarrels with his tools"/>
+        <item display="" display1="" id="49" comparision="Can you adapt yourself to the new job"/>
+        <item display="" display1="" id="50" comparision="Does the computer ever make a mistake?"/>
+        <item display="" display1="" id="51" comparision="Don't be uneasy about the consequence"/>
+        <item display="" display1="" id="52" comparision="Even a child can answer this question"/>
+        <item display="" display1="" id="53" comparision="He has many strange ideas in his mind"/>
+        <item display="" display1="" id="54" comparision="He is commonly supposed to be foolish"/>
+        <item display="" display1="" id="55" comparision="He sat with his arms across the chest"/>
+        <item display="" display1="" id="56" comparision="He set up a fine example to all of us"/>
+        <item display="" display1="" id="57" comparision="His cake is four times as big as mine"/>
+        <item display="" display1="" id="58" comparision="I do not care whether it rains or not"/>
+        <item display="" display1="" id="59" comparision="I have a lot in common with my sister"/>
+        <item display="" display1="" id="60" comparision="I haven't even touched your tooth yet"/>
+        <item display="" display1="" id="61" comparision="I'm looking forward to a prompt reply"/>
+        <item display="" display1="" id="62" comparision="It is an excellent novel in every way"/>
+        <item display="" display1="" id="63" comparision="It is clear that the cat has eaten it"/>
+        <item display="" display1="" id="64" comparision="Nothing but death can part the couple"/>
+        <item display="" display1="" id="65" comparision="Now she looks pale as if she were ill"/>
+        <item display="" display1="" id="66" comparision="She was injured badly in the accident"/>
+        <item display="" display1="" id="67" comparision="The secret was spread among the crowd"/>
+        <item display="" display1="" id="68" comparision="The two brothers look very much alike"/>
+        <item display="" display1="" id="69" comparision="Their interest is listening to others"/>
+        <item display="" display1="" id="70" comparision="There was a notice in the supermarket"/>
+        <item display="" display1="" id="71" comparision="This one cannot compare with that one"/>
+        <item display="" display1="" id="72" comparision="To know everything is to know nothing"/>
+        <item display="" display1="" id="73" comparision="To tell the truth, I don't like disco"/>
+        <item display="" display1="" id="74" comparision="True and False have opposite meanings"/>
+        <item display="" display1="" id="75" comparision="What's the point of going to college"/>
+        <item display="" display1="" id="76" comparision="Where can we make the insurance claim"/>
+        <item display="" display1="" id="77" comparision="Why don't I pick you up at your house"/>
+        <item display="" display1="" id="78" comparision="Why don't you attend an aerobic class"/>
+        <item display="" display1="" id="79" comparision="You can kill two birds with one stone"/>
+        <item display="" display1="" id="80" comparision="You can't go in no matter who you are"/>
+        <item display="" display1="" id="81" comparision="You should learn these words by heart"/>
+        <item display="" display1="" id="82" comparision="Could I have those two tickets, please"/>
+        <item display="" display1="" id="83" comparision="He has to take care of his sick mother"/>
+        <item display="" display1="" id="84" comparision="He hired a workman to repair the fence"/>
+        <item display="" display1="" id="85" comparision="I can't make this machine run properly"/>
+        <item display="" display1="" id="86" comparision="I don't know if I'll have the patience"/>
+        <item display="" display1="" id="87" comparision="I don't like what you are saying"/>
+        <item display="" display1="" id="88" comparision="I fell in love with her at first sight"/>
+        <item display="" display1="" id="89" comparision="I have just heard from my sister, Mary"/>
+        <item display="" display1="" id="90" comparision="If you would only try, you could do it"/>
+        <item display="" display1="" id="91" comparision="It is no use learning without thinking"/>
+        <item display="" display1="" id="92" comparision="It was a lazy, breezy autumn afternoon"/>
+        <item display="" display1="" id="93" comparision="Jack is the strongest boy in the class"/>
+        <item display="" display1="" id="94" comparision="Please fetch a chair from another room"/>
+        <item display="" display1="" id="95" comparision="The doctor began to operate on the boy"/>
+        <item display="" display1="" id="96" comparision="The doctor is taking my blood pressure"/>
+        <item display="" display1="" id="97" comparision="The machines will not operate properly"/>
+        <item display="" display1="" id="98" comparision="The students declared against cheating"/>
+        <item display="" display1="" id="99" comparision="There is hope so long as he is with us"/>
+    </content>
+</course>

@@ -1,0 +1,19 @@
+<!DOCTYPE x64.xml>
+<course>
+    <courseInfo security="1vb24=" new="false" alias="The moon" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="THE MOON"/>
+        <item display="" display1="" id="1" comparision="Thy beauty haunts me heart and soul,"/>
+        <item display="" display1="" id="2" comparision="O thou fair moon so close and bright;"/>
+        <item display="" display1="" id="3" comparision="Thy beauty makes me like the child"/>
+        <item display="" display1="" id="4" comparision="That cries aloud to own thy light:"/>
+        <item display="" display1="" id="5" comparision="The little child that lifts each arm"/>
+        <item display="" display1="" id="6" comparision="To press thee to her bosom warm."/>
+        <item display="" display1="" id="7" comparision="Though there are birds that sing this night"/>
+        <item display="" display1="" id="8" comparision="With thy white beams across their throats,"/>
+        <item display="" display1="" id="9" comparision="Let my deep silence speak for me"/>
+        <item display="" display1="" id="10" comparision="More than for them their sweetest notes:"/>
+        <item display="" display1="" id="11" comparision="Who worships thee till music fails"/>
+        <item display="" display1="" id="12" comparision="Is greater than nightingales."/>
+    </content>
+</course>

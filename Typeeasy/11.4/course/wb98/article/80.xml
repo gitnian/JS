@@ -1,0 +1,18 @@
+<!DOCTYPE x80.xml>
+<course>
+    <courseInfo security="" new="false" alias="信仰" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="当人抛弃信仰时，迷信渴望搬进来。"/>
+        <item display="" display1="" id="1" comparision="信仰是人们所必须的，什么也不信仰的人不会有幸福。"/>
+        <item display="" display1="" id="2" comparision="信仰不是一门学问，信仰只是一种行为；它只在被实践的时候，才有意义。"/>
+        <item display="" display1="" id="3" comparision="归根到底，所有的信仰都一样：为了永生。"/>
+        <item display="" display1="" id="4" comparision="真理不讲情面，但信仰却具有慈母之心；科学对于我们的渴望是冷淡的，而信仰却安慰鼓励我们。"/>
+        <item display="" display1="" id="5" comparision="信仰是对见不到的事物的爱，是对似乎不可能存在的事物的信赖。"/>
+        <item display="" display1="" id="6" comparision="信仰是没有国土和语言界限的，凡是拥护真理的人，就是兄弟和朋友。"/>
+        <item display="" display1="" id="7" comparision="信仰会是而且会永远是人类最后的希望之锚，人类即使达到了最高的尘世幸福，这个信仰也是不能缺少的。"/>
+        <item display="" display1="" id="8" comparision="信仰是人生的动力。"/>
+        <item display="" display1="" id="9" comparision="信仰是生命的力量。"/>
+        <item display="" display1="" id="10" comparision="信仰所给予人生之迷的答复含有人类的最深刻的智慧。"/>
+        <item display="" display1="" id="11" comparision="通向真正信仰的道路，是要经过无信仰的沙漠才会到达的。"/>
+    </content>
+</course>

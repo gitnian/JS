@@ -1,0 +1,26 @@
+<!DOCTYPE x81.xml>
+<course>
+    <courseInfo security="8oOCk=" new="true" alias="脑筋急转弯(8)" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="打什么东西，不必花力气？"/>
+        <item display="" display1="" id="1" comparision="答案：打瞌睡"/>
+        <item display="" display1="" id="2" comparision="一头牛，向北走10米，再向西走10米，再向南走10米，倒退右转，问牛的尾巴朝哪儿？"/>
+        <item display="" display1="" id="3" comparision="答案：朝地"/>
+        <item display="" display1="" id="4" comparision="有一种东西，买的人知道，卖的人也知道，只有用的人不知道，是什么东西？"/>
+        <item display="" display1="" id="5" comparision="答案：棺材"/>
+        <item display="" display1="" id="6" comparision="离婚的主要起因是什么？"/>
+        <item display="" display1="" id="7" comparision="答案：结婚"/>
+        <item display="" display1="" id="8" comparision="9个橙分给13个小朋友，怎么分才公平？"/>
+        <item display="" display1="" id="9" comparision="答案：榨成汁"/>
+        <item display="" display1="" id="10" comparision="放一支铅笔在地上，要使任何人都无法跨过，怎么做？"/>
+        <item display="" display1="" id="11" comparision="答案：放在墙边"/>
+        <item display="" display1="" id="12" comparision="为什么自由女神像老站在纽约港？"/>
+        <item display="" display1="" id="13" comparision="答案：她不能坐"/>
+        <item display="" display1="" id="14" comparision="青蛙为什么能跳得比树高？"/>
+        <item display="" display1="" id="15" comparision="答案：树不会跳"/>
+        <item display="" display1="" id="16" comparision="世界上有什么东西以近2000公里/小时的速度载着人奔驰，而且不必加油或其它燃料？"/>
+        <item display="" display1="" id="17" comparision="答案：地球"/>
+        <item display="" display1="" id="18" comparision="为了怕身材走样，结婚后不生孩子的美女怎么称呼？"/>
+        <item display="" display1="" id="19" comparision="答案：绝代佳人"/>
+    </content>
+</course>

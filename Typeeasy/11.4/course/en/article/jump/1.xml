@@ -1,0 +1,56 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="8/Pz8=" new="false" alias="英文文章跳级测试" courseType="en-article-jump"/>
+    <content>
+        <item display="" display1="" id="0" comparision="company"/>
+        <item display="" display1="" id="1" comparision="nothing"/>
+        <item display="" display1="" id="2" comparision="near"/>
+        <item display="" display1="" id="3" comparision="love"/>
+        <item display="" display1="" id="4" comparision="often"/>
+        <item display="" display1="" id="5" comparision="car"/>
+        <item display="" display1="" id="6" comparision="different"/>
+        <item display="" display1="" id="7" comparision="moment"/>
+        <item display="" display1="" id="8" comparision="rate"/>
+        <item display="" display1="" id="9" comparision="door"/>
+        <item display="" display1="" id="10" comparision="hope"/>
+        <item display="" display1="" id="11" comparision="piece"/>
+        <item display="" display1="" id="12" comparision="share"/>
+        <item display="" display1="" id="13" comparision="visit"/>
+        <item display="" display1="" id="14" comparision="nor"/>
+        <item display="" display1="" id="15" comparision="river"/>
+        <item display="" display1="" id="16" comparision="spring"/>
+        <item display="" display1="" id="17" comparision="lot"/>
+        <item display="" display1="" id="18" comparision="decision"/>
+        <item display="" display1="" id="19" comparision="wear"/>
+        <item display="" display1="" id="20" comparision="clean"/>
+        <item display="" display1="" id="21" comparision="dream"/>
+        <item display="" display1="" id="22" comparision="wrong"/>
+        <item display="" display1="" id="23" comparision="travel"/>
+        <item display="" display1="" id="24" comparision="bank"/>
+        <item display="" display1="" id="25" comparision="poem"/>
+        <item display="" display1="" id="26" comparision="poor"/>
+        <item display="" display1="" id="27" comparision="inch"/>
+        <item display="" display1="" id="28" comparision="song"/>
+        <item display="" display1="" id="29" comparision="admit"/>
+        <item display="" display1="" id="30" comparision="bridge"/>
+        <item display="" display1="" id="31" comparision="expression"/>
+        <item display="" display1="" id="32" comparision="exception"/>
+        <item display="" display1="" id="33" comparision="thank"/>
+        <item display="" display1="" id="34" comparision="library"/>
+        <item display="" display1="" id="35" comparision="fat"/>
+        <item display="" display1="" id="36" comparision="fresh"/>
+        <item display="" display1="" id="37" comparision="forest"/>
+        <item display="" display1="" id="38" comparision="winter"/>
+        <item display="" display1="" id="39" comparision="box"/>
+        <item display="" display1="" id="40" comparision="belief"/>
+        <item display="" display1="" id="41" comparision="trust"/>
+        <item display="" display1="" id="42" comparision="nobody"/>
+        <item display="" display1="" id="43" comparision="valley"/>
+        <item display="" display1="" id="44" comparision="Not yet."/>
+        <item display="" display1="" id="45" comparision="See you."/>
+        <item display="" display1="" id="46" comparision="Shut up!"/>
+        <item display="" display1="" id="47" comparision="I'm lost."/>
+        <item display="" display1="" id="48" comparision="Try again."/>
+        <item display="" display1="" id="49" comparision="Watch out!"/>
+    </content>
+</course>

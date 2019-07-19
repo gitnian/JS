@@ -1,0 +1,31 @@
+<!DOCTYPE x9.xml>
+<course>
+    <courseInfo security="==" new="false" alias="古诗十首" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="《龟虽寿》 曹操"/>
+        <item display="" display1="" id="1" comparision="神龟虽寿，犹有竟时。螣蛇乘雾，终为土灰。老骥伏枥，志在千里；"/>
+        <item display="" display1="" id="2" comparision="烈士暮年，壮心不已。盈缩之期，不但在天；养怡之福，可得永年。"/>
+        <item display="" display1="" id="3" comparision="幸甚至哉，歌以咏志。"/>
+        <item display="" display1="" id="4" comparision="《过故人庄》 孟浩然"/>
+        <item display="" display1="" id="5" comparision="故人具鸡黍，邀我至田家。绿树村边合，青山郭外斜。"/>
+        <item display="" display1="" id="6" comparision="开轩面场圃，把酒话桑麻。待到重阳日，还来就菊花。"/>
+        <item display="" display1="" id="7" comparision="《题破山寺后禅院》 常建"/>
+        <item display="" display1="" id="8" comparision="清晨入古寺，初日照高林。曲径通幽处，禅房花木深。"/>
+        <item display="" display1="" id="9" comparision="山光悦鸟性，潭影空人心。万籁此都寂，但余钟磬音。"/>
+        <item display="" display1="" id="10" comparision="《闻王昌龄左迁龙标遥有此寄》 李白"/>
+        <item display="" display1="" id="11" comparision="杨花落尽子规啼，闻道龙标过五溪。我寄愁心与明月，随君直到夜郎西。"/>
+        <item display="" display1="" id="12" comparision="《夜雨寄北》李商隐"/>
+        <item display="" display1="" id="13" comparision="君问归期未有期，巴山夜雨涨秋池。何当共剪西窗烛，却话巴山夜雨时。"/>
+        <item display="" display1="" id="14" comparision="《泊秦淮》杜牧"/>
+        <item display="" display1="" id="15" comparision="烟笼寒水月笼沙，夜泊秦淮近酒家。商女不知亡国恨，隔江犹唱后庭花。"/>
+        <item display="" display1="" id="16" comparision="《浣溪沙》晏殊"/>
+        <item display="" display1="" id="17" comparision="一曲新词酒一杯，去年天气旧亭台。夕阳西下几时回？"/>
+        <item display="" display1="" id="18" comparision="无可奈何花落去，似曾相识燕归来。小园香径独徘徊。"/>
+        <item display="" display1="" id="19" comparision="《过松源晨炊漆公店》杨万里"/>
+        <item display="" display1="" id="20" comparision="莫言下岭便无难，赚得行人空喜欢。正入万山圈子里，一山放过一山拦。"/>
+        <item display="" display1="" id="21" comparision="《如梦令》李清照"/>
+        <item display="" display1="" id="22" comparision="常记溪亭日暮，沉醉不知归路。兴尽晚回舟，误入藕花深处。争渡，争渡，惊起一滩鸥鹭。"/>
+        <item display="" display1="" id="23" comparision="《观书有感》朱熹"/>
+        <item display="" display1="" id="24" comparision="半亩方塘一鉴开，天光云影共徘徊。问渠那得清如许，为有源头活水来。"/>
+    </content>
+</course>

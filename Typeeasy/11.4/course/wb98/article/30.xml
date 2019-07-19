@@ -1,0 +1,64 @@
+<!DOCTYPE x30.xml>
+<course>
+    <courseInfo security="8=" new="false" alias="现代诗四首" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="《我爱这土地》 艾青"/>
+        <item display="" display1="" id="1" comparision="假如我是一只鸟，"/>
+        <item display="" display1="" id="2" comparision="我也应该用嘶哑的喉咙歌唱："/>
+        <item display="" display1="" id="3" comparision="这被暴风雨所打击着的土地，"/>
+        <item display="" display1="" id="4" comparision="这永远汹涌着我们的悲愤的河流，"/>
+        <item display="" display1="" id="5" comparision="这无止息地吹刮着的激怒的风，"/>
+        <item display="" display1="" id="6" comparision="和那来自林间的无比温柔的黎明……"/>
+        <item display="" display1="" id="7" comparision="然后我死了，"/>
+        <item display="" display1="" id="8" comparision="连羽毛也腐烂在土地里面。"/>
+        <item display="" display1="" id="9" comparision="为什么我的眼里常含泪水？"/>
+        <item display="" display1="" id="10" comparision="因为我对这土地爱得深沉……"/>
+        <item display="" display1="" id="11" comparision="《乡愁》 余光中"/>
+        <item display="" display1="" id="12" comparision="小时候乡愁是一枚小小的邮票"/>
+        <item display="" display1="" id="13" comparision="我在这头 母亲在那头"/>
+        <item display="" display1="" id="14" comparision="长大后乡愁是一张窄窄的船票"/>
+        <item display="" display1="" id="15" comparision="我在这头 新娘在那头"/>
+        <item display="" display1="" id="16" comparision="后来啊 乡愁是一方矮矮的坟墓"/>
+        <item display="" display1="" id="17" comparision="我在外头 母亲在里头"/>
+        <item display="" display1="" id="18" comparision="而现在乡愁是一湾浅浅的海峡"/>
+        <item display="" display1="" id="19" comparision="我在这头 大陆在那头"/>
+        <item display="" display1="" id="20" comparision="《我用残损的手掌》戴望舒"/>
+        <item display="" display1="" id="21" comparision="我用残损的手掌摸索这广大的土地："/>
+        <item display="" display1="" id="22" comparision="这一角已变成灰烬，那一角只是血和泥；"/>
+        <item display="" display1="" id="23" comparision="这一片湖该是我的家乡，"/>
+        <item display="" display1="" id="24" comparision="（春天，堤上繁花如锦障，嫩柳枝折断有奇异的芬芳，）"/>
+        <item display="" display1="" id="25" comparision="我触到荇藻和水的微凉；"/>
+        <item display="" display1="" id="26" comparision="这长白山的雪峰冷到彻骨，这黄河的水夹泥沙在指间滑出；"/>
+        <item display="" display1="" id="27" comparision="江南的水田，那么软……现在只有蓬蒿；"/>
+        <item display="" display1="" id="28" comparision="岭南的荔枝花寂寞地憔悴，尽那边，我蘸着南海没有渔船的苦水……"/>
+        <item display="" display1="" id="29" comparision="无形的手掌掠过无恨的江山，"/>
+        <item display="" display1="" id="30" comparision="手指沾了血和灰，手掌沾了阴暗，"/>
+        <item display="" display1="" id="31" comparision="只有那辽远的一角依然完整，温暖，明朗，坚固而蓬勃生春。"/>
+        <item display="" display1="" id="32" comparision="在那上面，我用残损的手掌轻抚，"/>
+        <item display="" display1="" id="33" comparision="像恋人的柔发，婴孩手中乳。"/>
+        <item display="" display1="" id="34" comparision="我把全部的力量运在手掌贴在上面，"/>
+        <item display="" display1="" id="35" comparision="寄与爱和一切希望，"/>
+        <item display="" display1="" id="36" comparision="因为只有那里是太阳，"/>
+        <item display="" display1="" id="37" comparision="是春，将驱逐阴暗，带来苏生，"/>
+        <item display="" display1="" id="38" comparision="因为只有那里我们不像牲口一样活，蝼蚁一样死……"/>
+        <item display="" display1="" id="39" comparision="那里，永恒的中国！"/>
+        <item display="" display1="" id="40" comparision="《祖国啊，我亲爱的祖国》舒婷"/>
+        <item display="" display1="" id="41" comparision="我是你河边上破旧的老水车数百年来纺着疲惫的歌；"/>
+        <item display="" display1="" id="42" comparision="我是你额上熏黑的矿灯，照你在历史的隧洞里蜗行摸索；"/>
+        <item display="" display1="" id="43" comparision="我是干瘪的稻穗；"/>
+        <item display="" display1="" id="44" comparision="是失修的路基；"/>
+        <item display="" display1="" id="45" comparision="是淤滩上的驳船把纤绳深深勒进你的肩膊；"/>
+        <item display="" display1="" id="46" comparision="——祖国啊！我是贫困，我是悲哀。"/>
+        <item display="" display1="" id="47" comparision="我是你祖祖辈辈痛苦的希望啊，是“飞天”袖间千百年来未落在地面的花朵；"/>
+        <item display="" display1="" id="48" comparision="——祖国啊！我是你簇新的理想，刚从神话的蛛网里挣脱；"/>
+        <item display="" display1="" id="49" comparision="我是你雪被下古莲的胚芽；"/>
+        <item display="" display1="" id="50" comparision="我是你挂着眼泪的笑涡；"/>
+        <item display="" display1="" id="51" comparision="我是新刷出的雪白的起跑线；"/>
+        <item display="" display1="" id="52" comparision="是绯红的黎明正在喷薄；"/>
+        <item display="" display1="" id="53" comparision="——祖国啊！我是你的十亿分之一是你九百六十万平方的总和；"/>
+        <item display="" display1="" id="54" comparision="你以伤痕累累的乳房喂养了迷惘的我、深思的我、沸腾的我；"/>
+        <item display="" display1="" id="55" comparision="那就从我的血肉之躯上去取得你的；"/>
+        <item display="" display1="" id="56" comparision="富饶、你的荣光、你的自由；"/>
+        <item display="" display1="" id="57" comparision="——祖国啊，我亲爱的祖国！"/>
+    </content>
+</course>

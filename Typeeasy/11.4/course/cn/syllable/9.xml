@@ -1,0 +1,26 @@
+<!DOCTYPE x9.xml>
+<course>
+    <courseInfo security="" new="false" alias="儿化音" courseType="cn-syllable"/>
+    <content>
+        <item display="běnshǎi'er" display1="本色儿" id="0" comparision="benshai'er"/>
+        <item display="hǎohāo'er" display1="好好儿" id="1" comparision="haohao'er"/>
+        <item display="niānjiū'er" display1="拈阄儿" id="2" comparision="nianjiu'er"/>
+        <item display="bájiān'er" display1="拔尖儿" id="3" comparision="bajian'er"/>
+        <item display="bīnggùn'er" display1="冰棍儿" id="4" comparision="binggun'er"/>
+        <item display="lǎotóu'er" display1="老头儿" id="5" comparision="laotou'er"/>
+        <item display="dòujiǎo'er" display1="豆角儿" id="6" comparision="doujiao'er"/>
+        <item display="guōguo'er" display1="蝈蝈儿" id="7" comparision="guoguo'er"/>
+        <item display="nàmèn'er" display1="纳闷儿" id="8" comparision="namen'er"/>
+        <item display="mòshuǐ'er" display1="墨水儿" id="9" comparision="moshui'er"/>
+        <item display="wéibó'er" display1="围脖儿" id="10" comparision="weibo'er"/>
+        <item display="yīkuài'er" display1="一块儿" id="11" comparision="yikuai'er"/>
+        <item display="zhàopiān'er" display1="照片儿" id="12" comparision="zhaopian'er"/>
+        <item display="wán'ermìng" display1="玩儿命" id="13" comparision="wan'erming"/>
+        <item display="qǐmíng'er" display1="起名儿" id="14" comparision="qiming'er"/>
+        <item display="xiǎoqǔ'er" display1="小曲儿" id="15" comparision="xiaoqu'er"/>
+        <item display="piàn'ertāng" display1="片儿汤" id="16" comparision="pian'ertang"/>
+        <item display="yīhuì'er" display1="一会儿" id="17" comparision="yihui'er"/>
+        <item display="zuòhuó'er" display1="做活儿" id="18" comparision="zuohuo'er"/>
+        <item display="zhōngjiàn'er" display1="中间儿" id="19" comparision="zhongjian'er"/>
+    </content>
+</course>

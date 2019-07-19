@@ -1,0 +1,106 @@
+<!DOCTYPE x4.xml>
+<course>
+    <courseInfo security="8/PzQ=" new="false" alias="最常用英语口语4" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="Did you enter the contest"/>
+        <item display="" display1="" id="1" comparision="Do you accept credit cards"/>
+        <item display="" display1="" id="2" comparision="Don't cry over spilt milk"/>
+        <item display="" display1="" id="3" comparision="Don't let chances pass by"/>
+        <item display="" display1="" id="4" comparision="He owned himself defeated"/>
+        <item display="" display1="" id="5" comparision="He seems at little nervous"/>
+        <item display="" display1="" id="6" comparision="He strolls about the town"/>
+        <item display="" display1="" id="7" comparision="Her tooth ached all night"/>
+        <item display="" display1="" id="8" comparision="How about a drink tonight"/>
+        <item display="" display1="" id="9" comparision="I can do nothing but that"/>
+        <item display="" display1="" id="10" comparision="I get hold of you at last"/>
+        <item display="" display1="" id="11" comparision="I have a surprise for you"/>
+        <item display="" display1="" id="12" comparision="I like all kinds of fruit"/>
+        <item display="" display1="" id="13" comparision="I saw it with my own eyes"/>
+        <item display="" display1="" id="14" comparision="I will arrange everything"/>
+        <item display="" display1="" id="15" comparision="I wish I knew my neighbor"/>
+        <item display="" display1="" id="16" comparision="I would like to check out"/>
+        <item display="" display1="" id="17" comparision="It has be come much cooler"/>
+        <item display="" display1="" id="18" comparision="It's time you went to bed"/>
+        <item display="" display1="" id="19" comparision="No spitting on the street"/>
+        <item display="" display1="" id="20" comparision="She was totally exhausted"/>
+        <item display="" display1="" id="21" comparision="Show your tickets, please"/>
+        <item display="" display1="" id="22" comparision="Thank you for your advice"/>
+        <item display="" display1="" id="23" comparision="That's the latest fashion"/>
+        <item display="" display1="" id="24" comparision="The train arrived on time"/>
+        <item display="" display1="" id="25" comparision="There go the house lights"/>
+        <item display="" display1="" id="26" comparision="They are paid by the hour"/>
+        <item display="" display1="" id="27" comparision="Things are getting better"/>
+        <item display="" display1="" id="28" comparision="Wake me up at five thirty"/>
+        <item display="" display1="" id="29" comparision="We are all busy with work"/>
+        <item display="" display1="" id="30" comparision="Where do you want to meet"/>
+        <item display="" display1="" id="31" comparision="You can get what you want"/>
+        <item display="" display1="" id="32" comparision="A barking dog doesn't bite"/>
+        <item display="" display1="" id="33" comparision="Are you free this Saturday"/>
+        <item display="" display1="" id="34" comparision="Be careful not to fall ill"/>
+        <item display="" display1="" id="35" comparision="Being a mother is not easy"/>
+        <item display="" display1="" id="36" comparision="Brevity is the soul of wit"/>
+        <item display="" display1="" id="37" comparision="Cancer is a deadly disease"/>
+        <item display="" display1="" id="38" comparision="Did you fight with others"/>
+        <item display="" display1="" id="39" comparision="Don't dream away your time"/>
+        <item display="" display1="" id="40" comparision="Don't keep me waiting long"/>
+        <item display="" display1="" id="41" comparision="He has a remarkable memory"/>
+        <item display="" display1="" id="42" comparision="He has completed the task"/>
+        <item display="" display1="" id="43" comparision="He has quite a few friends"/>
+        <item display="" display1="" id="44" comparision="He is capable of any crime"/>
+        <item display="" display1="" id="45" comparision="He walks with a quick pace"/>
+        <item display="" display1="" id="46" comparision="He was not a little tired"/>
+        <item display="" display1="" id="47" comparision="His looks are always funny"/>
+        <item display="" display1="" id="48" comparision="How about going to a movie"/>
+        <item display="" display1="" id="49" comparision="I think I've caught a cold"/>
+        <item display="" display1="" id="50" comparision="I was taking care of Sally"/>
+        <item display="" display1="" id="51" comparision="I wish I lived in NEWYORK"/>
+        <item display="" display1="" id="52" comparision="I'm very glad to hear that"/>
+        <item display="" display1="" id="53" comparision="I'm your lucky fellow then"/>
+        <item display="" display1="" id="54" comparision="It's none of your business"/>
+        <item display="" display1="" id="55" comparision="No littering on the campus"/>
+        <item display="" display1="" id="56" comparision="She is a good-looking girl"/>
+        <item display="" display1="" id="57" comparision="She mended the broken doll"/>
+        <item display="" display1="" id="58" comparision="So I just take what I want"/>
+        <item display="" display1="" id="59" comparision="Spring is a pretty season"/>
+        <item display="" display1="" id="60" comparision="The figure seems all Right"/>
+        <item display="" display1="" id="61" comparision="The stars are too far away"/>
+        <item display="" display1="" id="62" comparision="The whole world knows that"/>
+        <item display="" display1="" id="63" comparision="Tomorrow will be a holiday"/>
+        <item display="" display1="" id="64" comparision="We walk on the garden path"/>
+        <item display="" display1="" id="65" comparision="What you need is just rest"/>
+        <item display="" display1="" id="66" comparision="What's your favorite steps"/>
+        <item display="" display1="" id="67" comparision="You'd better let her alone"/>
+        <item display="" display1="" id="68" comparision="A lost chance never returns"/>
+        <item display="" display1="" id="69" comparision="Don't let this get you down"/>
+        <item display="" display1="" id="70" comparision="He shot the lion with a gun"/>
+        <item display="" display1="" id="71" comparision="I don't think you are right"/>
+        <item display="" display1="" id="72" comparision="I have never seen the movie"/>
+        <item display="" display1="" id="73" comparision="I haven't seen you for ages"/>
+        <item display="" display1="" id="74" comparision="I was alone, but not lonely"/>
+        <item display="" display1="" id="75" comparision="I went there three days ago"/>
+        <item display="" display1="" id="76" comparision="It's a friendly competition"/>
+        <item display="" display1="" id="77" comparision="It's very thoughtful of you"/>
+        <item display="" display1="" id="78" comparision="May I speak to Lora, please"/>
+        <item display="" display1="" id="79" comparision="Mr. Wang is fixing his bike"/>
+        <item display="" display1="" id="80" comparision="My brother is see king a job"/>
+        <item display="" display1="" id="81" comparision="Nancy will retire next year"/>
+        <item display="" display1="" id="82" comparision="Neither you nor he is wrong"/>
+        <item display="" display1="" id="83" comparision="Opportunity knocks but once"/>
+        <item display="" display1="" id="84" comparision="She dressed herself hastily"/>
+        <item display="" display1="" id="85" comparision="She hired a car by the hour"/>
+        <item display="" display1="" id="86" comparision="Someone is ringing the bell"/>
+        <item display="" display1="" id="87" comparision="The Smiths are my neighbors"/>
+        <item display="" display1="" id="88" comparision="These shoes don't fit right"/>
+        <item display="" display1="" id="89" comparision="This is only the first half"/>
+        <item display="" display1="" id="90" comparision="This pen doesn't write well"/>
+        <item display="" display1="" id="91" comparision="Would you like a cup of tea"/>
+        <item display="" display1="" id="92" comparision="You really look sharp today"/>
+        <item display="" display1="" id="93" comparision="Another cat came to my house"/>
+        <item display="" display1="" id="94" comparision="Check your answers with mine"/>
+        <item display="" display1="" id="95" comparision="Don't keep the truth from me"/>
+        <item display="" display1="" id="96" comparision="Everything has its beginning"/>
+        <item display="" display1="" id="97" comparision="He came to the point at once"/>
+        <item display="" display1="" id="98" comparision="He fell behind with his work"/>
+        <item display="" display1="" id="99" comparision="He is the happiest man alive"/>
+    </content>
+</course>

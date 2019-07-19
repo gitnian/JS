@@ -1,0 +1,26 @@
+<!DOCTYPE x79.xml>
+<course>
+    <courseInfo security="8oNik=" new="true" alias="脑筋急转弯(6)" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="你能做，我能做，大家都能做；一个人能做，两个人不能一起做。这是做什么？"/>
+        <item display="" display1="" id="1" comparision="答案：做梦"/>
+        <item display="" display1="" id="2" comparision="怎样才能用蓝笔写出红字来？"/>
+        <item display="" display1="" id="3" comparision="答案：写个“红”字"/>
+        <item display="" display1="" id="4" comparision="汽车在右转弯时，哪一条轮胎不转？"/>
+        <item display="" display1="" id="5" comparision="答案：备用轮胎"/>
+        <item display="" display1="" id="6" comparision="小王与父母头一次出国旅行，由于语言不通，他的父母显得不知所措，小王也不懂丝毫外语，他也不是聋哑人，却像在自己国家里一样未曾感到丝毫不便，这是为什么？"/>
+        <item display="" display1="" id="7" comparision="答案：小王是个婴儿"/>
+        <item display="" display1="" id="8" comparision="有一块天然的黑色的大理石，在九月七号这一天，把它扔到钱塘江里会有什么现象发生？"/>
+        <item display="" display1="" id="9" comparision="答案：沉到江底"/>
+        <item display="" display1="" id="10" comparision="人在什么情况下会七窍生烟？"/>
+        <item display="" display1="" id="11" comparision="答案：火葬"/>
+        <item display="" display1="" id="12" comparision="狐狸精最擅长迷惑男人，那么什么“精”男女一起迷？"/>
+        <item display="" display1="" id="13" comparision="答案：酒精"/>
+        <item display="" display1="" id="14" comparision="一对健康的夫妇，为什么会生出没有眼睛的婴儿？"/>
+        <item display="" display1="" id="15" comparision="答案：鸡生蛋"/>
+        <item display="" display1="" id="16" comparision="为什么两只老虎打架，非要拼个你死我活才罢休？"/>
+        <item display="" display1="" id="17" comparision="答案：没有人敢劝架"/>
+        <item display="" display1="" id="18" comparision="林先生大手术后换了一个人工心脏。病好了后，她的女友却马上提出分手，为什么会这样？"/>
+        <item display="" display1="" id="19" comparision="答案：没有真心爱她"/>
+    </content>
+</course>

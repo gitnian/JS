@@ -1,0 +1,26 @@
+<!DOCTYPE x11.xml>
+<course>
+    <courseInfo security="" new="false" alias="双音节" courseType="cn-syllable"/>
+    <content>
+        <item display="yīyī" display1="一一" id="0" comparision="yiyi"/>
+        <item display="yībàn" display1="一半" id="1" comparision="yiban"/>
+        <item display="yīdìng" display1="一定" id="2" comparision="yiding"/>
+        <item display="yībān" display1="一般" id="3" comparision="yiban"/>
+        <item display="yīqǐ" display1="一起" id="4" comparision="yiqi"/>
+        <item display="yīshēng" display1="一生" id="5" comparision="yisheng"/>
+        <item display="yīlù" display1="一路" id="6" comparision="yilu"/>
+        <item display="yītiān" display1="一天" id="7" comparision="yitian"/>
+        <item display="yītǐ" display1="一体" id="8" comparision="yiti"/>
+        <item display="yīxíng" display1="一行" id="9" comparision="yixing"/>
+        <item display="bùhǎo" display1="不好" id="10" comparision="buhao"/>
+        <item display="bùgù" display1="不顾" id="11" comparision="bugu"/>
+        <item display="bùgòu" display1="不够" id="12" comparision="bugou"/>
+        <item display="bùqū" display1="不屈" id="13" comparision="buqu"/>
+        <item display="bùnéng" display1="不能" id="14" comparision="buneng"/>
+        <item display="bùjí" display1="不及" id="15" comparision="buji"/>
+        <item display="bùxiǎng" display1="不想" id="16" comparision="buxiang"/>
+        <item display="bùrì" display1="不日" id="17" comparision="buri"/>
+        <item display="bùjū" display1="不拘" id="18" comparision="buju"/>
+        <item display="bùshì" display1="不适" id="19" comparision="bushi"/>
+    </content>
+</course>

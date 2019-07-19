@@ -1,0 +1,33 @@
+<!DOCTYPE x46.xml>
+<course>
+    <courseInfo security="Y=" new="false" alias="四字词组6" courseType="wb-word"/>
+    <content>
+        <item display="" display1="" id="0" comparision="绞尽脑汁"/>
+        <item display="" display1="" id="1" comparision="费尽心机"/>
+        <item display="" display1="" id="2" comparision="引以为戒"/>
+        <item display="" display1="" id="3" comparision="约定俗成"/>
+        <item display="" display1="" id="4" comparision="缩手缩脚"/>
+        <item display="" display1="" id="5" comparision="纵横驰骋"/>
+        <item display="" display1="" id="6" comparision="缘木求鱼"/>
+        <item display="" display1="" id="7" comparision="纸醉金迷"/>
+        <item display="" display1="" id="8" comparision="继往开来"/>
+        <item display="" display1="" id="9" comparision="惟妙惟肖"/>
+        <item display="" display1="" id="10" comparision="引人注目"/>
+        <item display="" display1="" id="11" comparision="引经据典"/>
+        <item display="" display1="" id="12" comparision="强词夺理"/>
+        <item display="" display1="" id="13" comparision="寥若晨星"/>
+        <item display="" display1="" id="14" comparision="计划生育"/>
+        <item display="" display1="" id="15" comparision="讳莫如深"/>
+        <item display="" display1="" id="16" comparision="充耳不闻"/>
+        <item display="" display1="" id="17" comparision="熟能生巧"/>
+        <item display="" display1="" id="18" comparision="诸如此类"/>
+        <item display="" display1="" id="19" comparision="请君入瓮"/>
+        <item display="" display1="" id="20" comparision="讨价还价"/>
+        <item display="" display1="" id="21" comparision="文人相轻"/>
+        <item display="" display1="" id="22" comparision="放任自流"/>
+        <item display="" display1="" id="23" comparision="衣食住行"/>
+        <item display="" display1="" id="24" comparision="恋恋不舍"/>
+        <item display="" display1="" id="25" comparision="这就是说"/>
+        <item display="" display1="" id="26" comparision="高谈阔论"/>
+    </content>
+</course>

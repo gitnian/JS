@@ -1,0 +1,7 @@
+﻿<task>
+	<item index="1" name="novice" id="/course/nov/" state="noactive" />
+	<item index="2" name="english" id="/course/en/" state="noactive" />
+	<item index="3" name="chinese" id="/course/cn/" state="noactive" />
+	<item index="4" name="wubi" id="/course/wb/" state="noactive" />
+	<item index="5" name="wubi98" id="/course/wb98/" state="noactive" />
+</task>

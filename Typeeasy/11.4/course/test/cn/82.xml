@@ -1,0 +1,34 @@
+<!DOCTYPE x82.xml>
+<course>
+    <courseInfo security="8oOSk=" new="true" alias="脑筋急转弯(9)" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="冬瓜、黄瓜、西瓜、南瓜都能吃，什么瓜不能吃？"/>
+        <item display="" display1="" id="1" comparision="答案：傻瓜"/>
+        <item display="" display1="" id="2" comparision="偷什么东西不犯法？"/>
+        <item display="" display1="" id="3" comparision="答案：偷笑"/>
+        <item display="" display1="" id="4" comparision="有一个字，人人见了都会念错。这是什么字？"/>
+        <item display="" display1="" id="5" comparision="答案：这是“错”字"/>
+        <item display="" display1="" id="6" comparision="黑人为什么喜欢吃白色巧克力？"/>
+        <item display="" display1="" id="7" comparision="答案：怕吃到自己的手指"/>
+        <item display="" display1="" id="8" comparision="什么人始终不敢洗澡？"/>
+        <item display="" display1="" id="9" comparision="答案：泥人"/>
+        <item display="" display1="" id="10" comparision="为什么大部分佛教徒都在北半球？"/>
+        <item display="" display1="" id="11" comparision="答案：南“无”阿弥陀佛"/>
+        <item display="" display1="" id="12" comparision="你知道现代的科学家一般都出生在哪吗？"/>
+        <item display="" display1="" id="13" comparision="答案：医院里"/>
+        <item display="" display1="" id="14" comparision="大雁为什么要向南飞？"/>
+        <item display="" display1="" id="15" comparision="答案：因为用脚走太慢了"/>
+        <item display="" display1="" id="16" comparision="盆里有6只馒头，6个小朋友每人分到1只，但盆里还留着1只，为什么？"/>
+        <item display="" display1="" id="17" comparision="答案：最后一个小朋友把盆子一起拿走了"/>
+        <item display="" display1="" id="18" comparision="老王一天要刮四五十次脸，脸上却仍有胡子。这是什么原因？"/>
+        <item display="" display1="" id="19" comparision="答案：老王是个理发师"/>
+        <item display="" display1="" id="20" comparision="什么车子寸步难行？"/>
+        <item display="" display1="" id="21" comparision="答案：风车"/>
+        <item display="" display1="" id="22" comparision="小明从不念书却得了模范生，为什么？"/>
+        <item display="" display1="" id="23" comparision="答案：小明是聋哑学生"/>
+        <item display="" display1="" id="24" comparision="一个盒子有几个边？"/>
+        <item display="" display1="" id="25" comparision="答案：两个边。里边和外边"/>
+        <item display="" display1="" id="26" comparision="哪一个月有二十八天？"/>
+        <item display="" display1="" id="27" comparision="答案：每个月都有28天"/>
+    </content>
+</course>

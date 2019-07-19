@@ -1,0 +1,10 @@
+<!DOCTYPE x89.xml>
+<course>
+    <courseInfo security="8/" new="false" alias="银行家的算术" courseType="wb-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="教算术课的老师问：“有人借出了五元，每月利息一分，两年后，能收多少利息？”"/>
+        <item display="" display1="" id="1" comparision="全班学生纷纷运算，忙个不休。只有银行家的一个儿子端坐不动。"/>
+        <item display="" display1="" id="2" comparision="“你为什么不计算呢？”"/>
+        <item display="" display1="" id="3" comparision="“对一分这样低的利息，我不感兴趣。”"/>
+    </content>
+</course>

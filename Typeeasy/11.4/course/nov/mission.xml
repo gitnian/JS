@@ -1,0 +1,7 @@
+<mission>
+	<task index="1" speed="10" precision="95" description="nov-knowledge"/>
+	<task index="2" speed="30" precision="95" description="nov-letter"/>
+	<task index="3" speed="30" precision="95" description="nov-number"/>
+	<task index="4" speed="20" precision="95" description="nov-symbol"/>
+	<task index="5" speed="30" precision="95" description="nov-amend"/>
+</mission>

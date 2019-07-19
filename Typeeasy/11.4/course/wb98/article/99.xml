@@ -1,0 +1,15 @@
+<!DOCTYPE x99.xml>
+<course>
+    <courseInfo security="8/" new="false" alias="职业性的回答" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="职业性的回答"/>
+        <item display="" display1="" id="1" comparision="编辑问一位想得到校对职务的人，他是否知道这一工作的重大。"/>
+        <item display="" display1="" id="2" comparision="“啊，是的，”这位申请者回答，“我知道，如果一旦您出了错，我就该负责。”"/>
+        <item display="" display1="" id="3" comparision="必备条件"/>
+        <item display="" display1="" id="4" comparision="约翰到某大公司求职，受到了经理的接待。"/>
+        <item display="" display1="" id="5" comparision="“你有什么特别喜欢做的工作？”"/>
+        <item display="" display1="" id="6" comparision="“如果可能，我愿意参加董事会。”"/>
+        <item display="" display1="" id="7" comparision="“你发疯了吗？”"/>
+        <item display="" display1="" id="8" comparision="“什么？发疯是作董事的必备条件吗？”"/>
+    </content>
+</course>

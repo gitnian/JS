@@ -1,0 +1,55 @@
+<!DOCTYPE x12.xml>
+<course>
+    <courseInfo security="8/PzEy" new="false" alias="最常用英语口语12" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="I am vacuuming the floor now and have several shirts to iron"/>
+        <item display="" display1="" id="1" comparision="I will love you until the seas run dry and the rocks crumble"/>
+        <item display="" display1="" id="2" comparision="There is a broken small old gray stone bridge over the river"/>
+        <item display="" display1="" id="3" comparision="No wonder people say that computers are taking over the world"/>
+        <item display="" display1="" id="4" comparision="The enormous increase of population will create many problems"/>
+        <item display="" display1="" id="5" comparision="There's nothing better for you than plenty of water and sleep"/>
+        <item display="" display1="" id="6" comparision="You should always depend on yourself rather than someone else"/>
+        <item display="" display1="" id="7" comparision="I would like to express to all of you here our sincere welcome"/>
+        <item display="" display1="" id="8" comparision="Many people prefer living in the country to living in the town"/>
+        <item display="" display1="" id="9" comparision="Since I'm here, I'd like to try a typical dish of this country"/>
+        <item display="" display1="" id="10" comparision="Walking up and down the stairs would beat any exercise machine"/>
+        <item display="" display1="" id="11" comparision="Had it not been for the alarm clock she wouldn't have been late"/>
+        <item display="" display1="" id="12" comparision="How ever you may work hard, the boss will not be fully satisfied"/>
+        <item display="" display1="" id="13" comparision="If he had not broken his tooth, he would not be in hospital now"/>
+        <item display="" display1="" id="14" comparision="You might as well throw your money away as spend it in gambling"/>
+        <item display="" display1="" id="15" comparision="Can you put me in the picture about the World Cup Football Match?"/>
+        <item display="" display1="" id="16" comparision="I'm usually just using the search engines to look up information"/>
+        <item display="" display1="" id="17" comparision="He goes home early everyday for fear that his wife would be angry"/>
+        <item display="" display1="" id="18" comparision="I regret to inform you that we are unable to offer you employment"/>
+        <item display="" display1="" id="19" comparision="I will continue my learning, though I am tired of learning English"/>
+        <item display="" display1="" id="20" comparision="Li Bai is one of the greatest poets that have ever lived in China"/>
+        <item display="" display1="" id="21" comparision="Many people complain that computers are taking over their jobs"/>
+        <item display="" display1="" id="22" comparision="The cupboards in her kitchen were full of things she did not need"/>
+        <item display="" display1="" id="23" comparision="What be said did not annoy me much, for I knew he did not mean it"/>
+        <item display="" display1="" id="24" comparision="He asked me some personal questions, but I would never answer them"/>
+        <item display="" display1="" id="25" comparision="I don't care where we go as long as we don't have to stand in line"/>
+        <item display="" display1="" id="26" comparision="She likes Mike a lot, but she doesn't want to get married so early"/>
+        <item display="" display1="" id="27" comparision="Why don't you find a job and end this dependence upon your parents?"/>
+        <item display="" display1="" id="28" comparision="Will you please try to find out for me what time the train arrives?"/>
+        <item display="" display1="" id="29" comparision="A good knowledge of English will improve your chances of employment"/>
+        <item display="" display1="" id="30" comparision="If she finds out you spilled ink on her coat, she'll blow her stack"/>
+        <item display="" display1="" id="31" comparision="I would be very grateful for information about entry to your college"/>
+        <item display="" display1="" id="32" comparision="Mr. Smith knew Jack didn't look at the others because he was nervous"/>
+        <item display="" display1="" id="33" comparision="On being introduced to somebody, a British person often shakes hands"/>
+        <item display="" display1="" id="34" comparision="I want to take a walk along the river bank, singing my favorite songs"/>
+        <item display="" display1="" id="35" comparision="Many people believe that overweight results from overeating and stress"/>
+        <item display="" display1="" id="36" comparision="Yet all these things, different as they seem, have one thing in common"/>
+        <item display="" display1="" id="37" comparision="All my best memories come back clearly to me, some can even make me cry"/>
+        <item display="" display1="" id="38" comparision="This is the most wonderful day of my life, because I'm here with you now"/>
+        <item display="" display1="" id="39" comparision="When I was young, I'd listen to the radio, waiting for my favorite songs"/>
+        <item display="" display1="" id="40" comparision="I'm certain he'll go to see the film, because he's bought a ticket"/>
+        <item display="" display1="" id="41" comparision="Unfortunately you'll have to pay the fine before you check those books out"/>
+        <item display="" display1="" id="42" comparision="Hi! You guys keep talking so loudly that I have to speak at the top my voice!"/>
+        <item display="" display1="" id="43" comparision="We should not only know the theory but also how to apply it to practice"/>
+        <item display="" display1="" id="44" comparision="Combining exercise with the diet may be the most effective way to lose weight"/>
+        <item display="" display1="" id="45" comparision="The maximum weight allowance is 60 kilos per traveler, excluding hand luggage"/>
+        <item display="" display1="" id="46" comparision="You are just putting on a little weight. I believe you'll get that off easily"/>
+        <item display="" display1="" id="47" comparision="In many countries, more and more companies are replacing people with computers"/>
+        <item display="" display1="" id="48" comparision="There are mice next to the refrigerator, under the sink and inside the cupboard!"/>
+    </content>
+</course>

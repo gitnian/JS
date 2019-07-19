@@ -1,0 +1,46 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="8/Pz8=" new="false" alias="新手数字键位考试" courseType="nov-number-exam"/>
+    <content>
+        <item display="" display1="" id="0" comparision="39242"/>
+        <item display="" display1="" id="1" comparision="46950"/>
+        <item display="" display1="" id="2" comparision="59013"/>
+        <item display="" display1="" id="3" comparision="95225"/>
+        <item display="" display1="" id="4" comparision="35948"/>
+        <item display="" display1="" id="5" comparision="99424"/>
+        <item display="" display1="" id="6" comparision="00258"/>
+        <item display="" display1="" id="7" comparision="08812"/>
+        <item display="" display1="" id="8" comparision="75044"/>
+        <item display="" display1="" id="9" comparision="08818"/>
+        <item display="" display1="" id="10" comparision="98015"/>
+        <item display="" display1="" id="11" comparision="01555"/>
+        <item display="" display1="" id="12" comparision="16475"/>
+        <item display="" display1="" id="13" comparision="93809"/>
+        <item display="" display1="" id="14" comparision="84458"/>
+        <item display="" display1="" id="15" comparision="88468"/>
+        <item display="" display1="" id="16" comparision="40615"/>
+        <item display="" display1="" id="17" comparision="53357"/>
+        <item display="" display1="" id="18" comparision="03617"/>
+        <item display="" display1="" id="19" comparision="24553"/>
+        <item display="" display1="" id="20" comparision="84792"/>
+        <item display="" display1="" id="21" comparision="18919"/>
+        <item display="" display1="" id="22" comparision="26605"/>
+        <item display="" display1="" id="23" comparision="41171"/>
+        <item display="" display1="" id="24" comparision="67055"/>
+        <item display="" display1="" id="25" comparision="84169"/>
+        <item display="" display1="" id="26" comparision="80677"/>
+        <item display="" display1="" id="27" comparision="31640"/>
+        <item display="" display1="" id="28" comparision="97286"/>
+        <item display="" display1="" id="29" comparision="03273"/>
+        <item display="" display1="" id="30" comparision="25998"/>
+        <item display="" display1="" id="31" comparision="94230"/>
+        <item display="" display1="" id="32" comparision="80930"/>
+        <item display="" display1="" id="33" comparision="98853"/>
+        <item display="" display1="" id="34" comparision="47852"/>
+        <item display="" display1="" id="35" comparision="62303"/>
+        <item display="" display1="" id="36" comparision="20314"/>
+        <item display="" display1="" id="37" comparision="88756"/>
+        <item display="" display1="" id="38" comparision="81165"/>
+        <item display="" display1="" id="39" comparision="30907"/>
+    </content>
+</course>

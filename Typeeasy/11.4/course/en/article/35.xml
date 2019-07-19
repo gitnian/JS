@@ -1,0 +1,17 @@
+<!DOCTYPE x35.xml>
+<course>
+    <courseInfo security="lzaCBqb2tl" new="false" alias="English jokes" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="ENGLISH JOKES"/>
+        <item display="" display1="" id="1" comparision="1 There are thousands of jokes which use &quot;play on words&quot; to amuse us. One person asks a question which expects a particular reply. Instead, what he gets is another kind of answer which makes the situation funny. Now read some of these customer and waiter jokes. Can you match the joke with the explanation?"/>
+        <item display="" display1="" id="2" comparision="1C: What's that fly doing in my soup?"/>
+        <item display="" display1="" id="3" comparision="W: Swimming, I think!"/>
+        <item display="" display1="" id="4" comparision="2C: What's that?"/>
+        <item display="" display1="" id="5" comparision="W: It's bean soup."/>
+        <item display="" display1="" id="6" comparision="C: I don't want to know what it's been. I wantto know what it is now."/>
+        <item display="" display1="" id="7" comparision="3C: Waiter, will the pancakes be long?"/>
+        <item display="" display1="" id="8" comparision="W: No, sir. Round."/>
+        <item display="" display1="" id="9" comparision="2 Some jokes are longer and tell a short, funny story. The following is one of those jokes about the famous detective Sherlock Holmes and his friend Doctor Watson. Read it and decide which of these two kinds of jokes you like better. Give your reasons."/>
+        <item display="" display1="" id="10" comparision="Sherlock Holmes and Doctor Watson went camping in a mountainous area. They were lying in the open air under the stars. Sherlock Holmes looked up at the stars and whispered, &quot;Watson, when you look at that beautiful sky, what do you think of?&quot; Watson replied, &quot;I think of how short life is and how long the universe has lasted.&quot; &quot;No, no, Watson!&quot; Holmes said. &quot;What do you really think of?&quot; Watson tried again. &quot;I think of how small I am and how vast the sky is.&quot; &quot;Try again, Watson!&quot; said Holmes. Watson tried a third time. &quot;I think of how cold the universe is and how warm people can be in their beds.&quot; Holmes said, &quot;Watson, you fool! You should be thinking that someone has stolen our tent!&quot;"/>
+    </content>
+</course>

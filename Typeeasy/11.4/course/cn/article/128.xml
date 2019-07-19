@@ -1,0 +1,13 @@
+<!DOCTYPE x128.xml>
+<course>
+    <courseInfo security="" new="false" alias="贵房子" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="贵房子"/>
+        <item display="" display1="" id="1" comparision="女儿：“妈妈，我们为什么不能住比较贵的房子？”"/>
+        <item display="" display1="" id="2" comparision="母亲：“别着急，我们马上就要住贵房子了，房东告诉我，他从明天起就给我们提高房租。”"/>
+        <item display="" display1="" id="3" comparision="约翰和房东"/>
+        <item display="" display1="" id="4" comparision="约翰到动物商店，说：“我要买250只臭虫，230只蟑螂，15只老鼠。”"/>
+        <item display="" display1="" id="5" comparision="店员惊奇地问：“干什么用？”"/>
+        <item display="" display1="" id="6" comparision="“房东把我轰出来了。他要求把房子恢复到我搬进去以前的样子。”"/>
+    </content>
+</course>

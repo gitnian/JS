@@ -1,0 +1,34 @@
+<!DOCTYPE x6.xml>
+<course>
+    <courseInfo security="==" new="false" alias="综合练习" courseType="nov-letter"/>
+    <content>
+        <item display="" display1="" id="0" comparision="QWERT"/>
+        <item display="" display1="" id="1" comparision="YUIOP"/>
+        <item display="" display1="" id="2" comparision="ASDFG"/>
+        <item display="" display1="" id="3" comparision="HJKL;"/>
+        <item display="" display1="" id="4" comparision="ZXCVB"/>
+        <item display="" display1="" id="5" comparision="NM,./"/>
+        <item display="" display1="" id="6" comparision="POIUY"/>
+        <item display="" display1="" id="7" comparision="TREWQ"/>
+        <item display="" display1="" id="8" comparision=";LKJH"/>
+        <item display="" display1="" id="9" comparision="GFDSA"/>
+        <item display="" display1="" id="10" comparision="/.,MN"/>
+        <item display="" display1="" id="11" comparision="BVCXZ"/>
+        <item display="" display1="" id="12" comparision="QAZWSX"/>
+        <item display="" display1="" id="13" comparision="EDCRFV"/>
+        <item display="" display1="" id="14" comparision="TGBYHN"/>
+        <item display="" display1="" id="15" comparision="UJMIK,"/>
+        <item display="" display1="" id="16" comparision="OL.P;/"/>
+        <item display="" display1="" id="17" comparision="QPWOEIRUTY"/>
+        <item display="" display1="" id="18" comparision="A;SLDKFJGH"/>
+        <item display="" display1="" id="19" comparision="Z/X.C,VMBN"/>
+        <item display="" display1="" id="20" comparision="ABCDEFG"/>
+        <item display="" display1="" id="21" comparision="HIJKLMN"/>
+        <item display="" display1="" id="22" comparision="OPQRST"/>
+        <item display="" display1="" id="23" comparision="UVWXYZ"/>
+        <item display="" display1="" id="24" comparision="ABCDEFG"/>
+        <item display="" display1="" id="25" comparision="HIJKLMN"/>
+        <item display="" display1="" id="26" comparision="OPQRST"/>
+        <item display="" display1="" id="27" comparision="UVWXYZ"/>
+    </content>
+</course>

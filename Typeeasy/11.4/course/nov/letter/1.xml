@@ -1,0 +1,42 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="==" new="false" alias="基准键位" courseType="nov-letter"/>
+    <content>
+        <item display="" display1="" id="0" comparision="AAAASSSS"/>
+        <item display="" display1="" id="1" comparision="DDDDFFFF"/>
+        <item display="" display1="" id="2" comparision="JJJJKKKK"/>
+        <item display="" display1="" id="3" comparision="LLLL;;;;"/>
+        <item display="" display1="" id="4" comparision="ASDFJKL;"/>
+        <item display="" display1="" id="5" comparision=";LKJFDSA"/>
+        <item display="" display1="" id="6" comparision="ASDFJKL;"/>
+        <item display="" display1="" id="7" comparision=";LKJFDSA"/>
+        <item display="" display1="" id="8" comparision="ASDFFDSA"/>
+        <item display="" display1="" id="9" comparision="JKL;;LKJ"/>
+        <item display="" display1="" id="10" comparision=";LKJJKL;"/>
+        <item display="" display1="" id="11" comparision="FDSAASDF"/>
+        <item display="" display1="" id="12" comparision="AAAASSSS"/>
+        <item display="" display1="" id="13" comparision="DDDDFFFF"/>
+        <item display="" display1="" id="14" comparision="JJJJKKKK"/>
+        <item display="" display1="" id="15" comparision="LLLL;;;;"/>
+        <item display="" display1="" id="16" comparision="ASDFJKL;"/>
+        <item display="" display1="" id="17" comparision=";LKJFDSA"/>
+        <item display="" display1="" id="18" comparision="ASDFJKL;"/>
+        <item display="" display1="" id="19" comparision=";LKJFDSA"/>
+        <item display="" display1="" id="20" comparision="ASDFFDSA"/>
+        <item display="" display1="" id="21" comparision="JKL;;LKJ"/>
+        <item display="" display1="" id="22" comparision=";LKJJKL;"/>
+        <item display="" display1="" id="23" comparision="FDSAASDF"/>
+        <item display="" display1="" id="24" comparision="AAAASSSS"/>
+        <item display="" display1="" id="25" comparision="DDDDFFFF"/>
+        <item display="" display1="" id="26" comparision="JJJJKKKK"/>
+        <item display="" display1="" id="27" comparision="LLLL;;;;"/>
+        <item display="" display1="" id="28" comparision="ASDFJKL;"/>
+        <item display="" display1="" id="29" comparision=";LKJFDSA"/>
+        <item display="" display1="" id="30" comparision="ASDFJKL;"/>
+        <item display="" display1="" id="31" comparision=";LKJFDSA"/>
+        <item display="" display1="" id="32" comparision="ASDFFDSA"/>
+        <item display="" display1="" id="33" comparision="JKL;;LKJ"/>
+        <item display="" display1="" id="34" comparision=";LKJJKL;"/>
+        <item display="" display1="" id="35" comparision="FDSAASDF"/>
+    </content>
+</course>

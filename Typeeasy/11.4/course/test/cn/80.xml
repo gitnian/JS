@@ -1,0 +1,26 @@
+<!DOCTYPE x80.xml>
+<course>
+    <courseInfo security="8oNyk=" new="true" alias="脑筋急转弯(7)" courseType="test-cn"/>
+    <content>
+        <item display="" display1="" id="0" comparision="黑鸡厉害还是白鸡厉害，为什么？"/>
+        <item display="" display1="" id="1" comparision="答案：黑鸡，黑鸡会生白蛋，白鸡不会生黑蛋"/>
+        <item display="" display1="" id="2" comparision="黑头发有什么好处？"/>
+        <item display="" display1="" id="3" comparision="答案：不怕晒黑"/>
+        <item display="" display1="" id="4" comparision="经理不会做饭，可有一道菜特别拿手，是什么？"/>
+        <item display="" display1="" id="5" comparision="答案：炒鱿鱼"/>
+        <item display="" display1="" id="6" comparision="什么酒不能喝？"/>
+        <item display="" display1="" id="7" comparision="答案：碘酒"/>
+        <item display="" display1="" id="8" comparision="三更半夜回家才发现忘记带钥匙，家里又没有其他人在，这时你最大的愿望是什么？"/>
+        <item display="" display1="" id="9" comparision="答案：门忘锁了"/>
+        <item display="" display1="" id="10" comparision="有人说，女人像一本书，那么胖女人像什么书？"/>
+        <item display="" display1="" id="11" comparision="答案：合订本"/>
+        <item display="" display1="" id="12" comparision="被鳄鱼咬和被鲨鱼咬后的感觉有什么不同？"/>
+        <item display="" display1="" id="13" comparision="答案：没有人知道"/>
+        <item display="" display1="" id="14" comparision="如果明天就是世界末日，为什么今天就有人想自杀？"/>
+        <item display="" display1="" id="15" comparision="答案：去天堂占位子"/>
+        <item display="" display1="" id="16" comparision="为什么一瓶标明剧毒的药对人却无害？"/>
+        <item display="" display1="" id="17" comparision="答案：只要你不去喝它"/>
+        <item display="" display1="" id="18" comparision="“先天”是指父母的遗传，那“后天”是什么？"/>
+        <item display="" display1="" id="19" comparision="答案：明天过后的那天"/>
+    </content>
+</course>

@@ -1,0 +1,6 @@
+<mission>
+	<task index="1" speed="20" precision="95" description="cn-inputmethod"/>
+	<task index="2" speed="70" precision="95" description="cn-syllable"/>
+	<task index="3" speed="40" precision="95" description="cn-word"/>
+	<task index="4" speed="100" precision="95" description="cn-article"/>
+</mission>

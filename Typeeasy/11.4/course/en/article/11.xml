@@ -1,0 +1,9 @@
+<!DOCTYPE x11.xml>
+<course>
+    <courseInfo security="N0IG9yIGFu" new="false" alias="A fact or an opinion" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="What is a fact? Is it something that people believe? No. A fact is anything that can be proved. For example, it can be proved that China has more people than any other country in the world. This is a fact."/>
+        <item display="" display1="" id="1" comparision="Then what is an opinion? An opinion is what someone believes is true but has not been proved. So an opinion is not good evidence in a trial. For example, it is an opinion if you say &quot;Cats are better pets than dogs&quot;. It may be true, but it is difficult to prove. Some people may not agree with this opinion but they also cannot prove that they are right."/>
+        <item display="" display1="" id="2" comparision="In a trial, a judge must decide which eyewitnesses to believe and which not to believe. The judge does not consider what each eyewitness looks like or where that person lives or works. He/she only cares about whether the eyewitness has given true information, which must be facts rather than opinions. This kind of information is called evidence."/>
+    </content>
+</course>

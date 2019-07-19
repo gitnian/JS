@@ -1,0 +1,20 @@
+<!DOCTYPE x22.xml>
+<course>
+    <courseInfo security="" new="false" alias="人生" courseType=""/>
+    <content>
+        <item display="" display1="" id="0" comparision="人生如同故事。重要的并不在有多长，而是在有多好。"/>
+        <item display="" display1="" id="1" comparision="真正的人生，只有在经过艰难卓绝的斗争之后才能实现。"/>
+        <item display="" display1="" id="2" comparision="人生最终的价值在于觉醒和思考的能力，而不只在于生存。"/>
+        <item display="" display1="" id="3" comparision="为真理而斗争是人生最大的乐趣。"/>
+        <item display="" display1="" id="4" comparision="人的一生是短的，但如卑劣的过这短的一生，就太长了。"/>
+        <item display="" display1="" id="5" comparision="上人生的旅途吧。前途很远，也很暗。"/>
+        <item display="" display1="" id="6" comparision="然而不要怕。不怕的人的面前才有路。"/>
+        <item display="" display1="" id="7" comparision="我们活着不能与草木同腐，不能醉生梦死，枉度人生，要有所做为！"/>
+        <item display="" display1="" id="8" comparision="如烟往事俱忘却，心底无私天地宽。"/>
+        <item display="" display1="" id="9" comparision="人若是太幸运，则不知天高地厚，也不知自己能力究竟有多少；若是太不幸，则终其一生皆默默无名。"/>
+        <item display="" display1="" id="10" comparision="决定一个人的一生，以及整个命运的，只是一瞬之间。"/>
+        <item display="" display1="" id="11" comparision="谁若游戏人生，他就一事无成；谁不主宰自己，永远是一个奴隶。"/>
+        <item display="" display1="" id="12" comparision="倦怠乃人生之大患，人们常叹人生暂短，其实人生悠长，只是由于不知它的用途。"/>
+        <item display="" display1="" id="13" comparision="人生并非游戏，因此，我们并没有权利只凭自己的意愿放弃它。"/>
+    </content>
+</course>

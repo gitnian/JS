@@ -1,0 +1,55 @@
+<!DOCTYPE x24.xml>
+<course>
+    <courseInfo security="1pbGxpb24g" new="false" alias="The million pound bank note(1)" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="Act I, Scene 3"/>
+        <item display="" display1="" id="1" comparision="NARRATOR: It is the summer of 1903. Two old and wealthy brothers, Roderick and Oliver, have made a bet. Oliver believes that with a million pound bank note a man could survive a month in London. His brother Roderick doubts it. At this moment, they see a penniless young man wandering on the pavement outside their house. It is Henry Adams, an American businessman, who is lost in London and does not know what he should do."/>
+        <item display="" display1="" id="2" comparision="RODERICK: Young man, would you step inside a moment, please?"/>
+        <item display="" display1="" id="3" comparision="HENRY: Who? Me, sir?"/>
+        <item display="" display1="" id="4" comparision="RODERICK: Yes, you."/>
+        <item display="" display1="" id="5" comparision="OLIVER: Through the front door on your left."/>
+        <item display="" display1="" id="6" comparision="HENRY: (A servant opens a door) Thanks."/>
+        <item display="" display1="" id="7" comparision="SERVANT: Good morning, sir. Would you please come in? Permit me to lead the way, sir."/>
+        <item display="" display1="" id="8" comparision="OLIVER: (Henry enters) Thank you, James. That will be all."/>
+        <item display="" display1="" id="9" comparision="RODERICK: How do you do, Mr... er...?"/>
+        <item display="" display1="" id="10" comparision="HENRY: Adams. Henry Adams."/>
+        <item display="" display1="" id="11" comparision="OLIVER: Come and sit down, Mr Adams."/>
+        <item display="" display1="" id="12" comparision="HENRY: Thank you."/>
+        <item display="" display1="" id="13" comparision="RODERICK: You're an American?"/>
+        <item display="" display1="" id="14" comparision="HENRY: That's right, from San Francisco."/>
+        <item display="" display1="" id="15" comparision="RODERICK: How well do you know London?"/>
+        <item display="" display1="" id="16" comparision="HENRY: Not at all, it's my first trip here."/>
+        <item display="" display1="" id="17" comparision="RODERICK: I wonder, Mr Adams, if you'd mind us asking a few questions."/>
+        <item display="" display1="" id="18" comparision="HENRY: Not at all. Go right ahead."/>
+        <item display="" display1="" id="19" comparision="RODERICK: May we ask what you're doing in this country and what your plans are?"/>
+        <item display="" display1="" id="20" comparision="HENRY: Well, I can't say that I have any plans. I'm hoping to find work. As a matter of fact, I landed in Britain by accident."/>
+        <item display="" display1="" id="21" comparision="OLIVER: How is that possible?"/>
+        <item display="" display1="" id="22" comparision="HENRY: Well, you see, back home I had my own boat. About a month ago, I was sailing out of the bay... (his eyes stare at what is left of the brother's dinner on table)"/>
+        <item display="" display1="" id="23" comparision="OLIVER: Well, go on."/>
+        <item display="" display1="" id="24" comparision="HENRY: Oh, yes. Well, towards nightfall I found myself carried out to sea by a strong wind. It was all my fault. I didn't know whether I could survive until morning. The next morning I'd just about given myself up for lost when I was spotted by a ship."/>
+        <item display="" display1="" id="25" comparision="OLIVER: And it was the ship that brought you to England."/>
+        <item display="" display1="" id="26" comparision="HENRY: Yes. The fact is that I earned my passage by working as an unpaid hand, which accounts for my appearance. I went to the American embassy to seek help, but... (The brothers smile at each other.)"/>
+        <item display="" display1="" id="27" comparision="RODERICK: Well, you mustn't worry about that. It's an advantage."/>
+        <item display="" display1="" id="28" comparision="HENRY: I'm afraid I don't quite follow you, sir."/>
+        <item display="" display1="" id="29" comparision="RODERICK: Tell us, Mr Adams, what sort of work did you do in America?"/>
+        <item display="" display1="" id="30" comparision="HENRY: I worked for a mining company. Could you offer me some kind of work here?"/>
+        <item display="" display1="" id="31" comparision="RODERICK: Patience, Mr Adams. If you don't mind, may I ask you how much money you have?"/>
+        <item display="" display1="" id="32" comparision="HENRY: Well, to be honest, I have none."/>
+        <item display="" display1="" id="33" comparision="OLIVER: (happily) What luck! Brother, what luck! (claps his hands together)"/>
+        <item display="" display1="" id="34" comparision="HENRY: Well, it may seem lucky to you but not to me! On the contrary, in fact. If this is your idea of some kind of joke, I don't think it's very funny. (Henry stands up to leave) Now if you'll excuse me, I think I'll be on my way."/>
+        <item display="" display1="" id="35" comparision="RODERICK: Please don't go, Mr Adams. You mustn't think we don't care about you. Oliver, give him the letter."/>
+        <item display="" display1="" id="36" comparision="OLIVER: Yes, the letter. (gets it from a desk and gives it to Henry like a gift) The letter."/>
+        <item display="" display1="" id="37" comparision="HENRY: (taking it carefully) For me?"/>
+        <item display="" display1="" id="38" comparision="RODERICK: For you. (Henry starts to open it) Oh, no, you mustn't open it. Not yet. You can't open it until two o'clock."/>
+        <item display="" display1="" id="39" comparision="HENRY: Oh, this is silly."/>
+        <item display="" display1="" id="40" comparision="RODERICK: Not silly. There's money in it. (calls to the servant) James?"/>
+        <item display="" display1="" id="41" comparision="HENRY: Oh, no. I don't want your charity. I just want an honest job."/>
+        <item display="" display1="" id="42" comparision="RODERICK: We know you're hard-working. That's why we've given you the letter. James, show Mr Adams out."/>
+        <item display="" display1="" id="43" comparision="OLIVER: Good luck, Mr Adams."/>
+        <item display="" display1="" id="44" comparision="HENRY: Well, why don't you explain what this is all about?"/>
+        <item display="" display1="" id="45" comparision="RODERICK: You'll soon know. (looks at the clock) In exactly an hour and a half."/>
+        <item display="" display1="" id="46" comparision="SERVANT This way, sir."/>
+        <item display="" display1="" id="47" comparision="RODERICK: Mr Adams, not until 2 o'clock. Promise?"/>
+        <item display="" display1="" id="48" comparision="HENRY: Promise. Goodbye."/>
+    </content>
+</course>

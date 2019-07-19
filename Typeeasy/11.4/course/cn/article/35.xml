@@ -1,0 +1,30 @@
+<!DOCTYPE x35.xml>
+<course>
+    <courseInfo security="==" new="false" alias="关雎蒹葭" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="《关雎》"/>
+        <item display="" display1="" id="1" comparision="关关雎鸠，在河之洲。"/>
+        <item display="" display1="" id="2" comparision="窈窕淑女，君子好逑。"/>
+        <item display="" display1="" id="3" comparision="参差荇菜，左右流之。"/>
+        <item display="" display1="" id="4" comparision="窈窕淑女，寤寐求之。"/>
+        <item display="" display1="" id="5" comparision="求之不得，寤寐思服。"/>
+        <item display="" display1="" id="6" comparision="悠哉悠哉，辗转反侧。"/>
+        <item display="" display1="" id="7" comparision="参差荇菜，左右采之。"/>
+        <item display="" display1="" id="8" comparision="窈窕淑女，琴瑟友之。"/>
+        <item display="" display1="" id="9" comparision="参差荇菜，左右芼之。"/>
+        <item display="" display1="" id="10" comparision="窈窕淑女，钟鼓乐之。"/>
+        <item display="" display1="" id="11" comparision="《蒹葭》"/>
+        <item display="" display1="" id="12" comparision="蒹葭苍苍，白露为霜。"/>
+        <item display="" display1="" id="13" comparision="所谓伊人，在水一方。"/>
+        <item display="" display1="" id="14" comparision="溯洄从之，道阻且长。"/>
+        <item display="" display1="" id="15" comparision="溯游从之，宛在水中央。"/>
+        <item display="" display1="" id="16" comparision="蒹葭萋萋，白露未晞。"/>
+        <item display="" display1="" id="17" comparision="所谓伊人，在水之湄。"/>
+        <item display="" display1="" id="18" comparision="溯洄从之，道阻且跻。"/>
+        <item display="" display1="" id="19" comparision="溯游从之，宛在水中坻。"/>
+        <item display="" display1="" id="20" comparision="蒹葭采采，白露未已。"/>
+        <item display="" display1="" id="21" comparision="所谓伊人，在水之涘。"/>
+        <item display="" display1="" id="22" comparision="溯洄从之，道阻且右。"/>
+        <item display="" display1="" id="23" comparision="溯游从之，宛在水中央。"/>
+    </content>
+</course>

@@ -1,0 +1,16 @@
+<!DOCTYPE x7.xml>
+<course>
+    <courseInfo security="NlIG9mIHRo" new="false" alias="Office of the city government" courseType="en-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="Office of the City Government"/>
+        <item display="" display1="" id="1" comparision="Tangshan, Hebei"/>
+        <item display="" display1="" id="2" comparision="China"/>
+        <item display="" display1="" id="3" comparision="July5,2007"/>
+        <item display="" display1="" id="4" comparision="Dear Lilei,"/>
+        <item display="" display1="" id="5" comparision="Congratulations! We are pleased to tell you that you have won the high school speaking competition about new Tangshan. Your speech was heard by a group of five judges, all of whom agreed that it was the best one this year. Your parents and your school should be very proud of you!"/>
+        <item display="" display1="" id="6" comparision="Next month the city will open a new park to honour those who died in the terrible disaster. The park will also honour those who helped the survivors. Our office would like to have you speak to the park visitors on July 28 at 11:00 am. As you know, this is the day the quake happened thirty years ago."/>
+        <item display="" display1="" id="7" comparision="We invite you to bring your family and friends on that special day."/>
+        <item display="" display1="" id="8" comparision="Sincerely,"/>
+        <item display="" display1="" id="9" comparision="Zhang Sha"/>
+    </content>
+</course>

@@ -1,0 +1,35 @@
+<!DOCTYPE x2.xml>
+<course>
+    <courseInfo security="==" new="false" alias="上排符号" courseType="nov-symbol"/>
+    <content>
+        <item display="" display1="" id="0" comparision="&lt;&lt;&lt;&lt;>>>>"/>
+        <item display="" display1="" id="1" comparision="????"/>
+        <item display="" display1="" id="2" comparision="::::&quot;&quot;&quot;&quot;"/>
+        <item display="" display1="" id="3" comparision="{{{{}}}}"/>
+        <item display="" display1="" id="4" comparision="~~~~!!!!"/>
+        <item display="" display1="" id="5" comparision="@@@@####"/>
+        <item display="" display1="" id="6" comparision="$$$$%%%%"/>
+        <item display="" display1="" id="7" comparision="^^^^&amp;&amp;&amp;&amp;"/>
+        <item display="" display1="" id="8" comparision="****(((("/>
+        <item display="" display1="" id="9" comparision="))))____"/>
+        <item display="" display1="" id="10" comparision="++++||||"/>
+        <item display="" display1="" id="11" comparision="&lt;>?:&quot;{}"/>
+        <item display="" display1="" id="12" comparision="&lt;>?:&quot;{}"/>
+        <item display="" display1="" id="13" comparision="~!@#$%"/>
+        <item display="" display1="" id="14" comparision="^&amp;*()_+|"/>
+        <item display="" display1="" id="15" comparision="~!@#$%"/>
+        <item display="" display1="" id="16" comparision="^&amp;*()_+|"/>
+        <item display="" display1="" id="17" comparision="?>&lt;&quot;:}{"/>
+        <item display="" display1="" id="18" comparision="?>&lt;&quot;:}{"/>
+        <item display="" display1="" id="19" comparision="|+_)(*&amp;^"/>
+        <item display="" display1="" id="20" comparision="%$#@!~"/>
+        <item display="" display1="" id="21" comparision="|+_)(*&amp;^"/>
+        <item display="" display1="" id="22" comparision="%$#@!~"/>
+        <item display="" display1="" id="23" comparision="&lt;>?:&quot;{}"/>
+        <item display="" display1="" id="24" comparision="~!@#$%"/>
+        <item display="" display1="" id="25" comparision="^&amp;*()_+|"/>
+        <item display="" display1="" id="26" comparision="&lt;>?:&quot;{}"/>
+        <item display="" display1="" id="27" comparision="~!@#$%"/>
+        <item display="" display1="" id="28" comparision="^&amp;*()_+|"/>
+    </content>
+</course>

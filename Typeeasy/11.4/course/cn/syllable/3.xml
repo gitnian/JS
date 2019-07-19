@@ -1,0 +1,22 @@
+<!DOCTYPE x3.xml>
+<course>
+    <courseInfo security="8/" new="false" alias="整体认读音节" courseType="cn-syllable"/>
+    <content>
+        <item display="zhi" display1="织" id="0" comparision="zhi"/>
+        <item display="chi" display1="吃" id="1" comparision="chi"/>
+        <item display="shi" display1="狮" id="2" comparision="shi"/>
+        <item display="ri" display1="日" id="3" comparision="ri"/>
+        <item display="zi" display1="姿" id="4" comparision="zi"/>
+        <item display="ci" display1="疵" id="5" comparision="ci"/>
+        <item display="si" display1="思" id="6" comparision="si"/>
+        <item display="yi" display1="衣" id="7" comparision="yi"/>
+        <item display="wu" display1="乌" id="8" comparision="wu"/>
+        <item display="yu" display1="淤" id="9" comparision="yu"/>
+        <item display="ye" display1="叶" id="10" comparision="ye"/>
+        <item display="yue" display1="月" id="11" comparision="yue"/>
+        <item display="yuan" display1="渊" id="12" comparision="yuan"/>
+        <item display="yin" display1="因" id="13" comparision="yin"/>
+        <item display="yun" display1="晕" id="14" comparision="yun"/>
+        <item display="ying" display1="英" id="15" comparision="ying"/>
+    </content>
+</course>

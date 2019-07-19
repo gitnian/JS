@@ -1,0 +1,29 @@
+<!DOCTYPE x1.xml>
+<course>
+    <courseInfo security="" new="false" alias="声母" courseType="cn-syllable"/>
+    <content>
+        <item display="b" display1="玻" id="0" comparision="b"/>
+        <item display="p" display1="坡" id="1" comparision="p"/>
+        <item display="m" display1="摸" id="2" comparision="m"/>
+        <item display="f" display1="佛" id="3" comparision="f"/>
+        <item display="d" display1="得" id="4" comparision="d"/>
+        <item display="t" display1="特" id="5" comparision="t"/>
+        <item display="n" display1="讷" id="6" comparision="n"/>
+        <item display="l" display1="勒" id="7" comparision="l"/>
+        <item display="g" display1="哥" id="8" comparision="g"/>
+        <item display="k" display1="科" id="9" comparision="k"/>
+        <item display="h" display1="喝" id="10" comparision="h"/>
+        <item display="j" display1="基" id="11" comparision="j"/>
+        <item display="q" display1="欺" id="12" comparision="q"/>
+        <item display="x" display1="希" id="13" comparision="x"/>
+        <item display="zh" display1="知" id="14" comparision="zh"/>
+        <item display="ch" display1="吃" id="15" comparision="ch"/>
+        <item display="sh" display1="诗" id="16" comparision="sh"/>
+        <item display="r" display1="日" id="17" comparision="r"/>
+        <item display="z" display1="资" id="18" comparision="z"/>
+        <item display="c" display1="雌" id="19" comparision="c"/>
+        <item display="s" display1="思" id="20" comparision="s"/>
+        <item display="y" display1="衣" id="21" comparision="y"/>
+        <item display="w" display1="乌" id="22" comparision="w"/>
+    </content>
+</course>

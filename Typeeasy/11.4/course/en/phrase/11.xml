@@ -1,0 +1,86 @@
+<!DOCTYPE x11.xml>
+<course>
+    <courseInfo security="8/PzEx" new="false" alias="最常用英语口语11" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="This cellar room is very damp in the rainy season"/>
+        <item display="" display1="" id="1" comparision="Computers are becoming a part of our everyday life"/>
+        <item display="" display1="" id="2" comparision="Every man is fool sometimes, but none at all times"/>
+        <item display="" display1="" id="3" comparision="He dreamed of traveling to remote South Sea Islands"/>
+        <item display="" display1="" id="4" comparision="How can I climb up that wall! I wish I were a bird!"/>
+        <item display="" display1="" id="5" comparision="However, Susan has not really made up her mind yet"/>
+        <item display="" display1="" id="6" comparision="I really think a little exercise would do you good"/>
+        <item display="" display1="" id="7" comparision="I will never forget the days that I spent with you"/>
+        <item display="" display1="" id="8" comparision="we got a bad headache, and my nose is running"/>
+        <item display="" display1="" id="9" comparision="Many young girls dream of being a fashion model"/>
+        <item display="" display1="" id="10" comparision="Most of the earth's surface is covered by water"/>
+        <item display="" display1="" id="11" comparision="Somebody's knocking at the door. I'll answer it"/>
+        <item display="" display1="" id="12" comparision="The number 13 bus will take you to the hospital"/>
+        <item display="" display1="" id="13" comparision="They celebrated his birthday with a dance party"/>
+        <item display="" display1="" id="14" comparision="They misplaced this book under other categories"/>
+        <item display="" display1="" id="15" comparision="They played a shameful part in the whole affair"/>
+        <item display="" display1="" id="16" comparision="As a matter of fact, he was pretending to be ill"/>
+        <item display="" display1="" id="17" comparision="I will speak against anything I know to be wrong"/>
+        <item display="" display1="" id="18" comparision="In spite of the heavy rain, she went to the shop"/>
+        <item display="" display1="" id="19" comparision="No matter what happened, he would not say a word"/>
+        <item display="" display1="" id="20" comparision="No one knows the location of the hidden treasure"/>
+        <item display="" display1="" id="21" comparision="The old lady enjoys a quiet life with her family"/>
+        <item display="" display1="" id="22" comparision="The population of the city is close to a million"/>
+        <item display="" display1="" id="23" comparision="We are prohibited from smoking on school grounds"/>
+        <item display="" display1="" id="24" comparision="Growth, however, brings new problems and concerns"/>
+        <item display="" display1="" id="25" comparision="He appears to be your friend but I doubt if he is"/>
+        <item display="" display1="" id="26" comparision="I am so full that I would burst with another bite"/>
+        <item display="" display1="" id="27" comparision="I have two cats. One is white, the other is black"/>
+        <item display="" display1="" id="28" comparision="I'm sorry, these 2 books are 3 days overdue"/>
+        <item display="" display1="" id="29" comparision="Jalu has forgotten falling off his bicycle"/>
+        <item display="" display1="" id="30" comparision="Manners are quite different from country to country"/>
+        <item display="" display1="" id="31" comparision="Not only did I know her, but I was her best friend"/>
+        <item display="" display1="" id="32" comparision="The best-known movie awards are the Academy Awards"/>
+        <item display="" display1="" id="33" comparision="We've got to do something about the neighbor's dog!"/>
+        <item display="" display1="" id="34" comparision="Will you come and join us for dinner on Sunday?"/>
+        <item display="" display1="" id="35" comparision="Do you think people are a company's greatest wealth?"/>
+        <item display="" display1="" id="36" comparision="He thinks himself somebody, but we think him nobody"/>
+        <item display="" display1="" id="37" comparision="I believe I haven't reached the summit of my career"/>
+        <item display="" display1="" id="38" comparision="It is no matter whether you get there early or late"/>
+        <item display="" display1="" id="39" comparision="It's against the rules to handle the ball in soccer"/>
+        <item display="" display1="" id="40" comparision="The nurse assisted the doctor in the operating room"/>
+        <item display="" display1="" id="41" comparision="What I do on my own time is nobody else's business"/>
+        <item display="" display1="" id="42" comparision="What I want to do is different from those of others"/>
+        <item display="" display1="" id="43" comparision="You forget to write down the date of your departure"/>
+        <item display="" display1="" id="44" comparision="&quot;I wish I'd known about that rule earlier&quot;, she said"/>
+        <item display="" display1="" id="45" comparision="Could you tell me your secret for a long, happy life?"/>
+        <item display="" display1="" id="46" comparision="He holds a position of great responsibility upon him"/>
+        <item display="" display1="" id="47" comparision="It is said he has secret love affairs with two women!"/>
+        <item display="" display1="" id="48" comparision="Number 13 buses run much more frequently, don't they?"/>
+        <item display="" display1="" id="49" comparision="They are only too delighted to accept the invitation"/>
+        <item display="" display1="" id="50" comparision="We are going to have the final examination next week"/>
+        <item display="" display1="" id="51" comparision="And now medical care helps to keep people alive longer"/>
+        <item display="" display1="" id="52" comparision="Do you think you'll be able to go to sleep fight away?"/>
+        <item display="" display1="" id="53" comparision="I am in charge of the company when the manager is out"/>
+        <item display="" display1="" id="54" comparision="I borrowed a notebook from Tom and I lent it to Marry"/>
+        <item display="" display1="" id="55" comparision="I'm doing some washing and John is cooking dinner"/>
+        <item display="" display1="" id="56" comparision="Were there any exciting incidents during your journey?"/>
+        <item display="" display1="" id="57" comparision="As far as policy is concerned, I have to say something"/>
+        <item display="" display1="" id="58" comparision="Could you tell me what the maximum weight allowance is?"/>
+        <item display="" display1="" id="59" comparision="He came out of the library, a large book under his arm"/>
+        <item display="" display1="" id="60" comparision="The brothers differ from each other in their interests"/>
+        <item display="" display1="" id="61" comparision="Although we can't see these atoms, they really do exist"/>
+        <item display="" display1="" id="62" comparision="I am familiar with the casual atmosphere in the company"/>
+        <item display="" display1="" id="63" comparision="Most people eat, write, and work with their fight hands"/>
+        <item display="" display1="" id="64" comparision="Only by working hard can we succeed in doing everything"/>
+        <item display="" display1="" id="65" comparision="Take it easy, you will be all right in a couple of days"/>
+        <item display="" display1="" id="66" comparision="The Beatles represented part of the spirit of their age"/>
+        <item display="" display1="" id="67" comparision="There being no one to help me, I had to do it all alone"/>
+        <item display="" display1="" id="68" comparision="How much cloth does it take to make a skirt for the girl?"/>
+        <item display="" display1="" id="69" comparision="With all these mouths to feed, he didn't know what to do"/>
+        <item display="" display1="" id="70" comparision="I forgot to prepare the speech I'm supposed to give today"/>
+        <item display="" display1="" id="71" comparision="It's supposed to start at 6:30 sharp, but I doubt it will"/>
+        <item display="" display1="" id="72" comparision="On behalf of my company, I would like to welcome you here"/>
+        <item display="" display1="" id="73" comparision="She's been quite different since coming back from America"/>
+        <item display="" display1="" id="74" comparision="Today it is common that women and girls make up in public"/>
+        <item display="" display1="" id="75" comparision="I have to transfer to No. ll bus, but where is the bus stop?"/>
+        <item display="" display1="" id="76" comparision="I supposed him to be very clever but he was in fact a fool"/>
+        <item display="" display1="" id="77" comparision="The rabbit ran to the woods and did not come back any more"/>
+        <item display="" display1="" id="78" comparision="Tom and Mary congratulated us on the birth of our daughter"/>
+        <item display="" display1="" id="79" comparision="I can't help eating sweets whenever they are in my presence"/>
+    </content>
+</course>

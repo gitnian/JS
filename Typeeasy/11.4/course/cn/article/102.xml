@@ -1,0 +1,11 @@
+<!DOCTYPE x102.xml>
+<course>
+    <courseInfo security="8/" new="false" alias="我也不会游泳" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="我也不会游泳"/>
+        <item display="" display1="" id="1" comparision="溺水者绝望地朝着江边走过的一男人喊道：“救命啊！救命啊！我不会游泳啊！”"/>
+        <item display="" display1="" id="2" comparision="“这有什么了不起的！我也不会游泳，”那个男人大声回应说，“可是我并不象你那样大喊大叫。”"/>
+        <item display="" display1="" id="3" comparision="可怜可怜我吧？！"/>
+        <item display="" display1="" id="4" comparision="我的一个朋友在公园散步。突然，有个人出现在他面前，说道：“先生，可怜可怜我吧，给我点钱吧。我现在没有工作，家里还有老婆孩子，身上一无所有，除了这把枪。”"/>
+    </content>
+</course>

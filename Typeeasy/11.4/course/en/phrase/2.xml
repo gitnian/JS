@@ -1,0 +1,106 @@
+<!DOCTYPE x2.xml>
+<course>
+    <courseInfo security="8/PzI=" new="false" alias="最常用英语口语2" courseType="en-phrase"/>
+    <content>
+        <item display="" display1="" id="0" comparision="It sounds great"/>
+        <item display="" display1="" id="1" comparision="It's a fine day"/>
+        <item display="" display1="" id="2" comparision="So far, So good"/>
+        <item display="" display1="" id="3" comparision="What time is it"/>
+        <item display="" display1="" id="4" comparision="You can make it"/>
+        <item display="" display1="" id="5" comparision="Control yourself"/>
+        <item display="" display1="" id="6" comparision="He came by train"/>
+        <item display="" display1="" id="7" comparision="He is ill in bed"/>
+        <item display="" display1="" id="8" comparision="He lacks courage"/>
+        <item display="" display1="" id="9" comparision="How's everything"/>
+        <item display="" display1="" id="10" comparision="I have no choice"/>
+        <item display="" display1="" id="11" comparision="I like ice-cream"/>
+        <item display="" display1="" id="12" comparision="I love this game"/>
+        <item display="" display1="" id="13" comparision="I'll try my best"/>
+        <item display="" display1="" id="14" comparision="I'm On your side"/>
+        <item display="" display1="" id="15" comparision="Long time no see"/>
+        <item display="" display1="" id="16" comparision="No pain, no gain"/>
+        <item display="" display1="" id="17" comparision="Well, it depends"/>
+        <item display="" display1="" id="18" comparision="We're all for it"/>
+        <item display="" display1="" id="19" comparision="What a good deal"/>
+        <item display="" display1="" id="20" comparision="What should I do"/>
+        <item display="" display1="" id="21" comparision="You asked for it"/>
+        <item display="" display1="" id="22" comparision="You have my word"/>
+        <item display="" display1="" id="23" comparision="Believe it or not"/>
+        <item display="" display1="" id="24" comparision="Don't count on me"/>
+        <item display="" display1="" id="25" comparision="Don't fall for it"/>
+        <item display="" display1="" id="26" comparision="Don't let me down"/>
+        <item display="" display1="" id="27" comparision="Easy come easy go"/>
+        <item display="" display1="" id="28" comparision="I beg your pardon"/>
+        <item display="" display1="" id="29" comparision="I beg your pardon"/>
+        <item display="" display1="" id="30" comparision="I'll be back soon"/>
+        <item display="" display1="" id="31" comparision="I'll check it out"/>
+        <item display="" display1="" id="32" comparision="It's a long story"/>
+        <item display="" display1="" id="33" comparision="It's Sunday today"/>
+        <item display="" display1="" id="34" comparision="Just wait and see"/>
+        <item display="" display1="" id="35" comparision="Make up your mind"/>
+        <item display="" display1="" id="36" comparision="That's all I need"/>
+        <item display="" display1="" id="37" comparision="The view is great"/>
+        <item display="" display1="" id="38" comparision="The wall has ears"/>
+        <item display="" display1="" id="39" comparision="There comes a bus"/>
+        <item display="" display1="" id="40" comparision="What day is today"/>
+        <item display="" display1="" id="41" comparision="What do you think"/>
+        <item display="" display1="" id="42" comparision="Who told you that"/>
+        <item display="" display1="" id="43" comparision="Who's kicking off"/>
+        <item display="" display1="" id="44" comparision="Yes, I suppose So"/>
+        <item display="" display1="" id="45" comparision="You can't miss it"/>
+        <item display="" display1="" id="46" comparision="Any messages for me"/>
+        <item display="" display1="" id="47" comparision="Don't be so modest"/>
+        <item display="" display1="" id="48" comparision="Don't give me that"/>
+        <item display="" display1="" id="49" comparision="He is a smart boy"/>
+        <item display="" display1="" id="50" comparision="He is just a child"/>
+        <item display="" display1="" id="51" comparision="I can't follow you"/>
+        <item display="" display1="" id="52" comparision="I felt sort of ill"/>
+        <item display="" display1="" id="53" comparision="I have a good idea"/>
+        <item display="" display1="" id="54" comparision="It is growing cool"/>
+        <item display="" display1="" id="55" comparision="It seems all right"/>
+        <item display="" display1="" id="56" comparision="It's going too far"/>
+        <item display="" display1="" id="57" comparision="May I use your pen"/>
+        <item display="" display1="" id="58" comparision="She had a bad cold"/>
+        <item display="" display1="" id="59" comparision="That's a good idea"/>
+        <item display="" display1="" id="60" comparision="The answer is zero"/>
+        <item display="" display1="" id="61" comparision="What does she like"/>
+        <item display="" display1="" id="62" comparision="As soon as possible"/>
+        <item display="" display1="" id="63" comparision="He can hardly speak"/>
+        <item display="" display1="" id="64" comparision="He always talks big"/>
+        <item display="" display1="" id="65" comparision="He won an election"/>
+        <item display="" display1="" id="66" comparision="I am a football fan"/>
+        <item display="" display1="" id="67" comparision="If only I could fly"/>
+        <item display="" display1="" id="68" comparision="I'll be right there"/>
+        <item display="" display1="" id="69" comparision="I'll see you at six"/>
+        <item display="" display1="" id="70" comparision="IS it true or false"/>
+        <item display="" display1="" id="71" comparision="Just read it for me"/>
+        <item display="" display1="" id="72" comparision="Knowledge is power"/>
+        <item display="" display1="" id="73" comparision="Move out of my way"/>
+        <item display="" display1="" id="74" comparision="Time is running out"/>
+        <item display="" display1="" id="75" comparision="We are good friends"/>
+        <item display="" display1="" id="76" comparision="What's your trouble"/>
+        <item display="" display1="" id="77" comparision="You did fairly well"/>
+        <item display="" display1="" id="78" comparision="Clothes make the man"/>
+        <item display="" display1="" id="79" comparision="Did you miss the bus"/>
+        <item display="" display1="" id="80" comparision="Don't lose your head"/>
+        <item display="" display1="" id="81" comparision="He can't take a joke"/>
+        <item display="" display1="" id="82" comparision="He owes my uncle $100"/>
+        <item display="" display1="" id="83" comparision="How are things going"/>
+        <item display="" display1="" id="84" comparision="How are you recently"/>
+        <item display="" display1="" id="85" comparision="I know all about it"/>
+        <item display="" display1="" id="86" comparision="It really takes time"/>
+        <item display="" display1="" id="87" comparision="It's against the law"/>
+        <item display="" display1="" id="88" comparision="Love me, love my dog"/>
+        <item display="" display1="" id="89" comparision="My mouth is watering"/>
+        <item display="" display1="" id="90" comparision="Speak louder, please"/>
+        <item display="" display1="" id="91" comparision="This boy has no job"/>
+        <item display="" display1="" id="92" comparision="This house is my own"/>
+        <item display="" display1="" id="93" comparision="What happened to you"/>
+        <item display="" display1="" id="94" comparision="You are just in time"/>
+        <item display="" display1="" id="95" comparision="You need to workout"/>
+        <item display="" display1="" id="96" comparision="Your hand feels cold"/>
+        <item display="" display1="" id="97" comparision="Don't be so childish"/>
+        <item display="" display1="" id="98" comparision="Don't trust to chance"/>
+        <item display="" display1="" id="99" comparision="Fasten your seat belt"/>
+    </content>
+</course>

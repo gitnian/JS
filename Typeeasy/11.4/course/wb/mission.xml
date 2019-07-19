@@ -1,0 +1,8 @@
+<mission>
+	<task index="1" speed="20" precision="95" description="wb-inputmethod"/>
+	<task index="2" speed="70" precision="100" description="wb-root"/>
+	<task index="3" speed="70" precision="100" description="wb-principle"/>
+	<task index="4" speed="20" precision="95" description="wb-character"/>
+	<task index="5" speed="50" precision="95" description="wb-word"/>
+	<task index="6" speed="100" precision="95" description="wb-article"/>
+</mission>

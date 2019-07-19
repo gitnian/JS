@@ -1,0 +1,22 @@
+<!DOCTYPE x7.xml>
+<course>
+    <courseInfo security="8=" new="false" alias="天上的街市" courseType="cn-article"/>
+    <content>
+        <item display="" display1="" id="0" comparision="远远的街灯明了，"/>
+        <item display="" display1="" id="1" comparision="好像闪着无数的明星。"/>
+        <item display="" display1="" id="2" comparision="天上的明星现了，"/>
+        <item display="" display1="" id="3" comparision="好像点着无数的街灯。"/>
+        <item display="" display1="" id="4" comparision="我想那缥缈的空中，"/>
+        <item display="" display1="" id="5" comparision="定然有美丽的街市。"/>
+        <item display="" display1="" id="6" comparision="街市上陈列的一些物品，"/>
+        <item display="" display1="" id="7" comparision="定然是世上没有的珍奇。"/>
+        <item display="" display1="" id="8" comparision="你看，那浅浅的天河，"/>
+        <item display="" display1="" id="9" comparision="定然是不甚宽广。"/>
+        <item display="" display1="" id="10" comparision="那隔着河的牛郎织女，"/>
+        <item display="" display1="" id="11" comparision="定能够骑着牛儿来往。"/>
+        <item display="" display1="" id="12" comparision="我想他们此刻，"/>
+        <item display="" display1="" id="13" comparision="定然在天街闲游。"/>
+        <item display="" display1="" id="14" comparision="不信，请看那朵流星，"/>
+        <item display="" display1="" id="15" comparision="是他们提着灯笼在走。"/>
+    </content>
+</course>
